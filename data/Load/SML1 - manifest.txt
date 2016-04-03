@@ -21,8 +21,8 @@
 [ehkehkehk6jk1iA0gk1hk1gQ:'Load/SML1/OBJ/Mario/Small/ehkehkehk6jk1iA0gk1hk1gQ.bmp':1:0:0]
 #[etkeJrdJrddjehrfhbfN8eFq:'Load/SML1/OBJ/Mario/Small/etkeJrdJrddjehrfhbfN8eFq.bmp':1:0:0]
 #[1hkaik9yQdwAeOsfOIfMIehk:'Load/SML1/OBJ/Mario/Small/1hkaik9yQdwAeOsfOIfMIehk.bmp':1:0:0]
-#[edkeFrfFbfFce1fehredjedj:'Load/SML1/OBJ/Mario/Small/edkeFrfFbfFce1fehredjedj.bmp':1:0:0]
-#[0hk6jk2ikejQeiQ2ik0iQ6jk:'Load/SML1/OBJ/Mario/Small/0hk6jk2ikejQeiQ2ik0iQ6jk.bmp':1:0:0]
+[edkeFrfFbfFce1fehredjedj:'Load/SML1/OBJ/Mario/Small/edkeFrfFbfFce1fehredjedj.bmp':1:0:0]
+[0hk6jk2ikejQeiQ2ik0iQ6jk:'Load/SML1/OBJ/Mario/Small/0hk6jk2ikejQeiQ2ik0iQ6jk.bmp':1:0:0]
 #[1gQ0hkbOk1OkeiQeik6jk2ik:'Load/SML1/OBJ/Mario/Small/1gQ0hkbOk1OkeiQeik6jk2ik.bmp':1:0:0]
 #[fJcedkeJrfJrdhrfhbdlFclR:'Load/SML1/OBJ/Mario/Small/fJcedkeJrfJrdhrfhbdlFclR.bmp':1:0:0]
 #Big
@@ -46,6 +46,12 @@
 [eik3Ok1yQ1yQ6iQeiQ9gA9MI:'Load/SML1/OBJ/Mario/Big/eik3Ok1yQ1yQ6iQeiQ9gA9MI.bmp':1:0:0]
 [eZrftbetbdhHdhHdhEchQehk:'Load/SML1/OBJ/Mario/Big/eZrftbetbdhHdhHdhEchQehk.bmp':1:0:0]
 [ehk0iQ1OI1gk1xk1xQ1MI1hk:'Load/SML1/OBJ/Mario/Big/ehk0iQ1OI1gk1xk1xQ1MI1hk.bmp':1:0:0]
+[edjeJreJofJ2dJAdJAeJsfJb:'Load/SML1/OBJ/Mario/Big/edjeJreJofJ2dJAdJAeJsfJb.bmp':1:0:0]
+[fdbedbehbehrelre5jeFqedj:'Load/SML1/OBJ/Mario/Big/fdbedbehbehrelre5jeFqedj.bmp':1:0:0]
+[2ik1iA0jk1Nk1Mk1iA0hkaik:'Load/SML1/OBJ/Mario/Big/2ik1iA0jk1Nk1Mk1iA0hkaik.bmp':1:0:0]
+[2jk0jk8jkeiQ6iQ2ikagkehk:'Load/SML1/OBJ/Mario/Big/2jk0jk8jkeiQ6iQ2ikagkehk.bmp':1:0:0]
+[eJrfJbdNjdhjfNbfNbfNcexo:'Load/SML1/OBJ/Mario/Big/eJrfJbdNjdhjfNbfNbfNcexo.bmp':1:0:0]
+[byQbyQeMYdOIdOIdPIehkehk:'Load/SML1/OBJ/Mario/Big/byQbyQeMYdOIdOIdPIehkehk.bmp':1:0:0]
 
 #Background
 [ejAejAejAejAejAejAejAejA:'Load/SML1/BG/Background/ejAejAejAejAejAejAejAejA.bmp':10:92C0:0]
