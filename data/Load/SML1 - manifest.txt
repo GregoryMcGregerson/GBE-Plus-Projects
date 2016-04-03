@@ -1,35 +1,13 @@
-#README      Be sure to set CGFX scale to 2x in order to use this pack! Thank you and enjoy.
-
-#Blocks (BG)
-[9Gq6kr6kr6kr6kr6kr6kr9Gq:'Load/SML1/BG/Blocks/9Gq6kr6kr6kr6kr6kr6kr9Gq.bmp':10:0:0]
-[9Gq1JD1Jv1J71J71Jz1Ir9Gq:'Load/SML1/BG/Blocks/9Gq1JD1Jv1J71J71Jz1Ir9Gq.bmp':10:0:0]
-[9Gq7RZ4516BF7RZ6lB7RZ9Gq:'Load/SML1/BG/Blocks/9Gq7RZ4516BF7RZ6lB7RZ9Gq.bmp':10:0:0]
-[9Gq6tD7JX7JX7JX1Ir1Ir9Gq:'Load/SML1/BG/Blocks/9Gq6tD7JX7JX7JX1Ir1Ir9Gq.bmp':10:0:0]
-
-#Blocks (OBJ)
-[9EG1Ln1LL1LT1LT1Lj1KH9EG:'Load/SML1/OBJ/Blocks/9EG1Ln1LL1LT1LT1Lj1KH9EG.bmp':1:0:0]
-[9EG7Td47N6Dp7Td6nl7Td9EG:'Load/SML1/OBJ/Blocks/9EG7Td47N6Dp7Td6nl7Td9EG.bmp':1:0:0]
-
-#Pipes
-[1Ir1JA1JA1JA1JA1Ir9KA9KA:'Load/SML1/BG/Pipes/1Ir1JA1JA1JA1JA1Ir9KA9KA.bmp':10:0:0]
-[1Ir2fr2fr2fr2fr1Ir0bW0bW:'Load/SML1/BG/Pipes/1Ir2fr2fr2fr2fr1Ir0bW0bW.bmp':10:0:0]
-[0bW0bW0bW0bW1wo0bW0bW0bW:'Load/SML1/BG/Pipes/0bW0bW0bW0bW1wo0bW0bW0bW.bmp':10:0:0]
-[9KA9KA9KA9KAdLr9KA9KA9KA:'Load/SML1/BG/Pipes/9KA9KA9KA9KAdLr9KA9KA9KA.bmp':10:0:0]
-[1Ap1Jy1Jw1Jw1Jw1Jw1Jw1Jw:'Load/SML1/BG/Pipes/1Ap1Jy1Jw1Jw1Jw1Jw1Jw1Jw.bmp':10:0:0]
-[1cj1LI1LI1LI1LI1LI1LI1LI:'Load/SML1/BG/Pipes/1cj1LI1LI1LI1LI1LI1LI1LI.bmp':10:0:0]
-[1Jw1Jw1Jw6co60r1wr1Ir1Ap:'Load/SML1/BG/Pipes/1Jw1Jw1Jw6co60r1wr1Ir1Ap.bmp':10:0:0]
-[1LI1LI1LI1LIeMreMr1Ir1cj:'Load/SML1/BG/Pipes/1LI1LI1LI1LIeMreMr1Ir1cj.bmp':10:0:0]
-[1IA1K41Lk1LQ1LX1LY1LY1LY:'Load/SML1/BG/Pipes/1IA1K41Lk1LQ1LX1LY1LY1LY.bmp':10:0:0]
-[1LY1LY1LY1LYdIr9Ik1I41IA:'Load/SML1/BG/Pipes/1LY1LY1LY1LYdIr9Ik1I41IA.bmp':10:0:0]
+#README     Be sure to set CGFX scale to 2x in order to use this pack! Thank you and enjoy.  ~GMG~
 
 #Mario
 #Small
-[ehkehkehketnfdjdJudJ8fJf:'Load/SML1/OBJ/Mario/Small/ehkehkehketnfdjdJudJ8fJf.bmp':1:0:0]
-[eJseBqclXdNFdNHehjehkehk:'Load/SML1/OBJ/Mario/Small/eJseBqclXdNFdNHehjehkehk.bmp':1:0:0]
-[1gQ0hk6ik5iAdPAfOQ8gQ9gA:'Load/SML1/OBJ/Mario/Small/1gQ0hk6ik5iAdPAfOQ8gQ9gA.bmp':1:0:0]
-[ehkehkehkehk6jk1iA0gk1hk:'Load/SML1/OBJ/Mario/Small/ehkehkehkehk6jk1iA0gk1hk.bmp':1:0:0]
-[ehkehkehkehketnedjeJqfJf:'Load/SML1/OBJ/Mario/Small/ehkehkehkehketnedjeJqfJf.bmp':1:0:0]
-[fJcedkeBrfBbfxhfNje9ieFq:'Load/SML1/OBJ/Mario/Small/fJcedkeBrfBbfxhfNje9ieFq.bmp':1:0:0]
+[ehkehkehkehketnedjeJqfJf:'Load/SML1/OBJ/Mario/Small/008032.bmp':1:0:0]
+[ehkehkehkehk6jk1iA0gk1hk:'Load/SML1/OBJ/Mario/Small/008042.bmp':1:0:0]
+[ehkehkehketnfdjdJudJ8fJf:'Load/SML1/OBJ/Mario/Small/008122.bmp':1:0:0]
+[fJcedkeBrfBbfxhfNje9ieFq:'Load/SML1/OBJ/Mario/Small/008132.bmp':1:0:0]
+[1gQ0hk6ik5iAdPAfOQ8gQ9gA:'Load/SML1/OBJ/Mario/Small/008142.bmp':1:0:0]
+[eJseBqclXdNFdNHehjehkehk:'Load/SML1/OBJ/Mario/Small/008222.bmp':1:0:0]
 [fJcfJbfJbeFrelnelnehkehk:'Load/SML1/OBJ/Mario/Small/fJcfJbfJbeFrelnelnehkehk.bmp':1:0:0]
 [eiQ2hA6gA0iA2iQ4OY9OI9gA:'Load/SML1/OBJ/Mario/Small/eiQ2hA6gA0iA2iQ4OY9OI9gA.bmp':1:0:0]
 [ehkehkehketnfJbeJgfJmeJo:'Load/SML1/OBJ/Mario/Small/ehkehkehketnfJbeJgfJmeJo.bmp':1:0:0]
@@ -64,22 +42,48 @@
 [ehkehkehkehkehk2ik1iA0jk:'Load/SML1/OBJ/Mario/Big/ehkehkehkehkehk2ik1iA0jk.bmp':1:0:0]
 [ehkehkehkehkehkedjeJreJo:'Load/SML1/OBJ/Mario/Big/ehkehkehkehkehkedjeJreJo.bmp':1:0:0]
 [fJ2fJ4fJcddIdZDdNPfxbdxE:'Load/SML1/OBJ/Mario/Big/fJ2fJ4fJcddIdZDdNPfxbdxE.bmp':1:0:0]
+[ehketnedjedieJvfJcfJcedg:'Load/SML1/OBJ/Mario/Big/ehketnedjedieJvfJcfJcedg.bmp':1:0:0]
+[eik3Ok1yQ1yQ6iQeiQ9gA9MI:'Load/SML1/OBJ/Mario/Big/eik3Ok1yQ1yQ6iQeiQ9gA9MI.bmp':1:0:0]
+[eZrftbetbdhHdhHdhEchQehk:'Load/SML1/OBJ/Mario/Big/eZrftbetbdhHdhHdhEchQehk.bmp':1:0:0]
+[ehk0iQ1OI1gk1xk1xQ1MI1hk:'Load/SML1/OBJ/Mario/Big/ehk0iQ1OI1gk1xk1xQ1MI1hk.bmp':1:0:0]
+
+#Blocks (BG)
+[9Gq6kr6kr6kr6kr6kr6kr9Gq:'Load/SML1/BG/Blocks/9Gq6kr6kr6kr6kr6kr6kr9Gq.bmp':10:0:0]
+[9Gq1JD1Jv1J71J71Jz1Ir9Gq:'Load/SML1/BG/Blocks/9Gq1JD1Jv1J71J71Jz1Ir9Gq.bmp':10:0:0]
+[9Gq7RZ4516BF7RZ6lB7RZ9Gq:'Load/SML1/BG/Blocks/9Gq7RZ4516BF7RZ6lB7RZ9Gq.bmp':10:0:0]
+[9Gq6tD7JX7JX7JX1Ir1Ir9Gq:'Load/SML1/BG/Blocks/9Gq6tD7JX7JX7JX1Ir1Ir9Gq.bmp':10:0:0]
+
+#Blocks (OBJ)
+[9EG1Ln1LL1LT1LT1Lj1KH9EG:'Load/SML1/OBJ/Blocks/9EG1Ln1LL1LT1LT1Lj1KH9EG.bmp':1:0:0]
+[9EG7Td47N6Dp7Td6nl7Td9EG:'Load/SML1/OBJ/Blocks/9EG7Td47N6Dp7Td6nl7Td9EG.bmp':1:0:0]
+
+#Pipes
+[1Ir1JA1JA1JA1JA1Ir9KA9KA:'Load/SML1/BG/Pipes/009732.bmp':10:0:0]
+[1Ir2fr2fr2fr2fr1Ir0bW0bW:'Load/SML1/BG/Pipes/009742.bmp':10:0:0]
+[9KA9KA9KA9KAdLr9KA9KA9KA:'Load/SML1/BG/Pipes/009752.bmp':10:0:0]
+[0bW0bW0bW0bW1wo0bW0bW0bW:'Load/SML1/BG/Pipes/009762.bmp':10:0:0]
+[1Ap1Jy1Jw1Jw1Jw1Jw1Jw1Jw:'Load/SML1/BG/Pipes/009772.bmp':10:0:0]
+[1cj1LI1LI1LI1LI1LI1LI1LI:'Load/SML1/BG/Pipes/009782.bmp':10:0:0]
+[1IA1K41Lk1LQ1LX1LY1LY1LY:'Load/SML1/BG/Pipes/009792.bmp':10:0:0]
+[1Jw1Jw1Jw6co60r1wr1Ir1Ap:'Load/SML1/BG/Pipes/0097A2.bmp':10:0:0]
+[1LI1LI1LI1LIeMreMr1Ir1cj:'Load/SML1/BG/Pipes/0097B2.bmp':10:0:0]
+[1LY1LY1LY1LYdIr9Ik1I41IA:'Load/SML1/BG/Pipes/0097C2.bmp':10:0:0]
 
 #Pick-ups
 #Mushroom
-[dxE9Em1Ll1Ll1KHaomaomdxE:'Load/SML1/OBJ/Pickups/dxE9Em1Ll1Ll1KHaomaomdxE.bmp':1:0:0]
+[dxE9Em1Ll1Ll1KHaomaomdxE:'Load/SML1/OBJ/Pickups/008862.bmp':1:0:0]
 #Fire Flower
 [dFG8sT9IHdFGeNs8Y-dFGfx8:'Load/SML1/OBJ/Pickups/dFG8sT9IHdFGeNs8Y-dFGfx8.bmp':1:0:0]
 [ehGfw9eglehGehseg-ehGeh8:'Load/SML1/OBJ/Pickups/ehGfw9eglehGehseg-ehGeh8.bmp':1:0:0]
 #Star
 [ehkfh4fh41GG9wEdNI9wE2ai:'Load/SML1/OBJ/Pickups/ehkfh4fh41GG9wEdNI9wE2ai.bmp':1:0:0]
 #Coin
-[dPs9yw0FC2FK2FK1FS9ywdPs:'Load/SML1/BG/Coin/dPs9yw0FC2FK2FK1FS9ywdPs.bmp':10:0:0]
+[dPs9yw0FC2FK2FK1FS9ywdPs:'Load/SML1/BG/Coin/008F72.bmp':10:8F40:0]
 
 #Enemies
 #Goomba
-[dxE9EG3+f3+f1KHdxk9ESd9y:'Load/SML1/OBJ/Enemies/dxE9EG3+f3+f1KHdxk9ESd9y.bmp':1:0:0]
-[ehkehkehkdxE9EG3+fdxk2un:'Load/SML1/OBJ/Enemies/ehkehkehkdxE9EG3+fdxk2un.bmp':1:0:0]
+[dxE9EG3+f3+f1KHdxk9ESd9y:'Load/SML1/OBJ/Enemies/008932.bmp':1:0:0]
+[ehkehkehkdxE9EG3+fdxk2un:'Load/SML1/OBJ/Enemies/008942.bmp':1:0:0]
 
 #Effects
 #Block Break
@@ -90,19 +94,30 @@
 [fNcdxgdxgdxgdxgdxgdxgfNc:'Load/SML1/OBJ/Effects/fNcdxgdxgdxgdxgdxgdxgfNc.bmp':1:0:0]
 
 #Ground
-[1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load/SML1/BG/Ground/1IrejA1Ir1Ir1Ir1LI1KA1LR.bmp':10:0:0]
-[1LA1LA1Iregr1Iregr1Ir1Ir:'Load/SML1/BG/Ground/1LA1LA1Iregr1Iregr1Ir1Ir.bmp':10:0:0]
+[1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load/SML1/BG/Ground/009632.bmp':10:0:0]
+[1LA1LA1Iregr1Iregr1Ir1Ir:'Load/SML1/BG/Ground/009642.bmp':10:0:0]
 
 #Font
-#[ejAdzo8i49yo8a28a2dzoejA:'Load/SML1/BG/Font/ejAdzo8i49yo8a28a2dzoejA.bmp':10:0:0]
-#[ejA9Gq8i49yo8i48i49GqejA:'Load/SML1/BG/Font/ejA9Gq8i49yo8i48i49GqejA.bmp':10:0:0]
-#[ejA9yoaGGaGGaGGaGG9yoejA:'Load/SML1/BG/Font/ejA9yoaGGaGGaGGaGG9yoejA.bmp':10:0:0]
-#[ejA8i48i48i48i48i49GqejA:'Load/SML1/BG/Font/ejA8i48i48i48i48i49GqejA.bmp':10:0:0]
-#[ejAaayaaybaO9Gq8GaaayejA:'Load/SML1/BG/Font/ejAaayaaybaO9Gq8GaaayejA.bmp':10:0:0]
-#[ejAdzofPYfPYfPYfPYdzoejA:'Load/SML1/BG/Font/ejAdzofPYfPYfPYfPYdzoejA.bmp':10:0:0]
-#[ejAdzo8a28a28a28a2dzoejA:'Load/SML1/BG/Font/ejAdzo8a28a28a28a2dzoejA.bmp':10:0:0]
-#[ejAdzoaGGaGG9GqaGGaGGejA:'Load/SML1/BG/Font/ejAdzoaGGaGG9GqaGGaGGejA.bmp':10:0:0]
-#[ejA9yo8a28a29yo8Oc8a2ejA:'Load/SML1/BG/Font/ejA9yo8a28a29yo8Oc8a2ejA.bmp':10:0:0]
-#[ejA9yoeHGdzoeHGeHG9yoejA:'Load/SML1/BG/Font/ejA9yoeHGdzoeHGeHG9yoejA.bmp':10:0:0]
-#[ejAaay8Ga9GqbaOaayaayejA:'Load/SML1/BG/Font/ejAaay8Ga9GqbaOaayaayejA.bmp':10:0:0]
-#[ejAdzoaGGaGGdHqeHGdzoejA:'Load/SML1/BG/Font/ejAdzoaGGaGGdHqeHGdzoejA.bmp':10:0:0]
+[dPs9yw0FC2FK2FK1FS9ywdPs:'Load/SML1/BG/Font/0092D2.bmp':10:92A0:0]
+[ejAdzo8a28a28a28a2dzoejA:'Load/SML1/BG/Font/009032.bmp':10:9000:0]
+[ejAdzo8a28a28a28a2dzoejA:'Load/SML1/BG/Font/0091B2.bmp':10:9180:0]
+[ejAejAa2wcPcfjQcPca2wejA:'Load/SML1/BG/Font/0092E2.bmp':10:0:0]
+[ejAfPYdPsfPYfPYfPYdzoejA:'Load/SML1/BG/Font/009042.bmp':10:0:0]
+[ejAejAejAdzodzoejAejAejA:'Load/SML1/BG/Font/0092C2.bmp':10:0:0]
+[ejA9GqfPYfPYfPYfPYfPYejA:'Load/SML1/BG/Font/ejA9GqfPYfPYfPYfPYfPYejA.bmp':10:0:0]
+[ejA9Gq8i49yo8i48i49GqejA:'Load/SML1/BG/Font/ejA9Gq8i49yo8i48i49GqejA.bmp':10:0:0]
+[ejAaay8Ga9GqbaOaayaayejA:'Load/SML1/BG/Font/ejAaay8Ga9GqbaOaayaayejA.bmp':10:0:0]
+[ejAdzofPYfPYfPYfPYdzoejA:'Load/SML1/BG/Font/ejAdzofPYfPYfPYfPYdzoejA.bmp':10:0:0]
+[ejAdzoaGGdzoaGGaGGdzoejA:'Load/SML1/BG/Font/ejAdzoaGGdzoaGGaGGdzoejA.bmp':10:0:0]
+[ejAdzoaGGaGGdHqeHGdzoejA:'Load/SML1/BG/Font/ejAdzoaGGaGGdHqeHGdzoejA.bmp':10:0:0]
+[ejA8i48i48i48i48i49GqejA:'Load/SML1/BG/Font/ejA8i48i48i48i48i49GqejA.bmp':10:0:0]
+[ejA9yoaGGaGGaGGaGG9yoejA:'Load/SML1/BG/Font/ejA9yoaGGaGGaGGaGG9yoejA.bmp':10:0:0]
+[ejAaayaaybaO9Gq8GaaayejA:'Load/SML1/BG/Font/ejAaayaaybaO9Gq8GaaayejA.bmp':10:0:0]
+[ejAdzoaGGaGG9GqaGGaGGejA:'Load/SML1/BG/Font/ejAdzoaGGaGG9GqaGGaGGejA.bmp':10:0:0]
+[ejA9yo8a28a29yo8Oc8a2ejA:'Load/SML1/BG/Font/ejA9yo8a28a29yo8Oc8a2ejA.bmp':10:0:0]
+[ejA9yoeHGdzoeHGeHG9yoejA:'Load/SML1/BG/Font/ejA9yoeHGdzoeHGeHG9yoejA.bmp':10:0:0]
+[ejAdzoaGGeHGdzo9ik9GqejA:'Load/SML1/BG/Font/ejAdzoaGGeHGdzo9ik9GqejA.bmp':10:0:0]
+[ejA9GqebyezEfPYdPsdPsejA:'Load/SML1/BG/Font/ejA9GqebyezEfPYdPsdPsejA.bmp':10:0:0]
+[ejAdzo8i49yo8a28a2dzoejA:'Load/SML1/BG/Font/ejAdzo8i49yo8a28a2dzoejA.bmp':10:0:0]
+[ejA9yo8i49yoeHGaGGdzoejA:'Load/SML1/BG/Font/ejA9yo8i49yoeHGaGGdzoejA.bmp':10:0:0]
+[ejAdzo8y8ayEaGG9GqezEejA:'Load/SML1/BG/Font/ejAdzo8y8ayEaGG9GqezEejA.bmp':10:0:0]
