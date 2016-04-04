@@ -77,6 +77,10 @@
 [2gA8i4cj4djkfjQfjQfjQ1gk:'Load/SML1/BG/Background/2gA8i4cj4djkfjQfjQfjQ1gk.bmp':10:0:0]
 [ejA1gkezEerC6lBenBamB1Eq:'Load/SML1/BG/Background/ejA1gkezEerC6lBenBamB1Eq.bmp':10:0:0]
 [enBebyeXKezEdjkbiQ8i46hA:'Load/SML1/BG/Background/enBebyeXKezEdjkbiQ8i46hA.bmp':10:0:0]
+[ehDegyei9egregregregregr:'Load/SML1/BG/Background/ehDegyei9egregregregregr.bmp':10:0:0]
+[ejAeg4ehlei-egregregregr:'Load/SML1/BG/Background/ejAeg4ehlei-egregregregr.bmp':10:0:0]
+[6jA6jA6jA6jA6jA6jA6jA6jA:'Load/SML1/BG/Background/6jA6jA6jA6jA6jA6jA6jA6jA.bmp':10:0:0]
+[enAevAe7AeTAenAevAe7AeTA:'Load/SML1/BG/Background/enAevAe7AeTAenAevAe7AeTA.bmp':10:0:0]
 #needs rom hack to fix
 [enBenBenBenBenBenBenBenB:'Load/SML1/BG/Background/enBenBenBenBenBenBenBenB.bmp':10:0:0]
 
@@ -141,6 +145,22 @@
 #Falling Brick
 [1yE1GG1JP1Jn1J71Ij1KH1KH:'Load/SML1/OBJ/Enemies/1yE1GG1JP1Jn1J71Ij1KH1KH.bmp':1:0:0]
 [dJH9IH1Ks1Ll1L41Kg1KH1KH:'Load/SML1/OBJ/Enemies/dJH9IH1Ks1Ll1L41Kg1KH1KH.bmp':1:0:0]
+#Cheep Cheep
+[9EGfh49wEfh49wEdNIa0g9wE:'Load/SML1/OBJ/Enemies/9EGfh49wEfh49wEdNIa0g9wE.bmp':1:0:0]
+[e1g6Hu6Hu3K51LX1715n55Lr:'Load/SML1/OBJ/Enemies/e1g6Hu6Hu3K51LX1715n55Lr.bmp':1:0:0]
+[fh49wEfh49wEfh4cNYa0g9wE:'Load/SML1/OBJ/Enemies/fh49wEfh49wEfh4cNYa0g9wE.bmp':1:0:0]
+[fNc9wM1HS1HW5715n57Lr9EG:'Load/SML1/OBJ/Enemies/fNc9wM1HS1HW5715n57Lr9EG.bmp':1:0:0]
+#Blooper
+[0iQf+LcKV2It2ApcZ-dNI2ik:'Load/SML1/OBJ/Enemies/0iQf+LcKV2It2ApcZ-dNI2ik.bmp':1:0:0]
+[2aicG+9GK5HS5XS9UK8U+6bi:'Load/SML1/OBJ/Enemies/2aicG+9GK5HS5XS9UK8U+6bi.bmp':1:0:0]
+[dJH9QZ1Dp9QZfJ2eJsfx49IH:'Load/SML1/OBJ/Enemies/dJH9QZ1Dp9QZfJ2eJsfx49IH.bmp':1:0:0]
+[fJbdpD9Uf1v61Lo9wA9gkdJH:'Load/SML1/OBJ/Enemies/fJbdpD9Uf1v61Lo9wA9gkdJH.bmp':1:0:0]
+#Bullet Bill
+[dxEcgq1KH1LF1KH1KH1LF1KH:'Load/SML1/OBJ/Enemies/dxEcgq1KH1LF1KH1KH1LF1KH.bmp':1:0:0]
+[ehkehk6jkfNc5zE7Pc6jk6jk:'Load/SML1/OBJ/Enemies/ehkehk6jkfNc5zE7Pc6jk6jk.bmp':1:0:0]
+[ehkehk6zofp66Tt7r66zo6jk:'Load/SML1/OBJ/Enemies/ehkehk6zofp66Tt7r66zo6jk.bmp':1:0:0]
+[ehkehkdFGaMt4HX1GH9EHdFG:'Load/SML1/OBJ/Enemies/ehkehkdFGaMt4HX1GH9EHdFG.bmp':1:0:0]
+[2undBF2un1KH1KH0KP1KH3+f:'Load/SML1/OBJ/Enemies/2undBF2un1KH1KH0KP1KH3+f.bmp':1:0:0]
 
 #Platforms
 [9EG1Ln1Ln1Lj9EGehkehkehk:'Load/SML1/OBJ/Platforms/9EG1Ln1Ln1Lj9EGehkehkehk.bmp':1:0:0]
@@ -171,6 +191,13 @@
 [1Ir1Ir1L31LD1LT1Kz1Ir1Ir:'Load/SML1/BG/Ground/1Ir1Ir1L31LD1LT1Kz1Ir1Ir.bmp':10:0:0]
 [dLr9Kr1II1JB1JQ1Iw1Ir1Ir:'Load/SML1/BG/Ground/dLr9Kr1II1JB1JQ1Iw1Ir1Ir.bmp':10:0:0]
 [1wo1Eq1L31LD1LT1Kz1Ir1Ir:'Load/SML1/BG/Ground/1wo1Eq1L31LD1LT1Kz1Ir1Ir.bmp':10:0:0]
+[0Ea0Ea0Ea0Ea0Ea0EaejAejA:'Load/SML1/BG/Ground/0Ea0Ea0Ea0Ea0Ea0EaejAejA.bmp':10:0:0]
+[1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2:'Load/SML1/BG/Ground/1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2.bmp':10:0:0]
+[1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3:'Load/SML1/BG/Ground/1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3.bmp':10:0:0]
+[fLX9Kr1Ir1Ir1Ir7RZ7RZ082:'Load/SML1/BG/Ground/fLX9Kr1Ir1Ir1Ir7RZ7RZ082.bmp':10:0:0]
+[dzo9K31IE1JQ1JQ1Jw1Ir1Ir:'Load/SML1/BG/Ground/dzo9K31IE1JQ1JQ1Jw1Ir1Ir.bmp':10:0:0]
+[9yo1FW1Ln1L31LD1JP1Ir1Ir:'Load/SML1/BG/Ground/9yo1FW1Ln1L31LD1JP1Ir1Ir.bmp':10:0:0]
+[1IJ1JV1Ir1IX1LU1Kk1I31Ir:'Load/SML1/BG/Ground/1IJ1JV1Ir1IX1LU1Kk1I31Ir.bmp':10:0:0]
 
 #Font
 [dPs9yw0FC2FK2FK1FS9ywdPs:'Load/SML1/BG/Font/0092D2.bmp':10:92A0:0]
@@ -214,4 +241,11 @@
 [ejAejAejAejAdjkdjkfjQcj4:'Load/SML1/BG/Font/ejAejAejAejAdjkdjkfjQcj4.bmp':10:0:0]
 [ejA9GqeHGfzUdPs9ik9GqejA:'Load/SML1/BG/Font/ejA9GqeHGfzUdPs9ik9GqejA.bmp':10:0:0]
 [ejAfzUfzUfzUfzUejAfzUejA:'Load/SML1/BG/Font/ejAfzUfzUfzUfzUejAfzUejA.bmp':10:0:0]
-[fzUcr6bCVbmRbCVcr6fzUejA:'Load/SML1/BG/Font/fzUcr6bCVbmRbCVcr6fzUejA.bmp':10:0:0]
+#Nintendo
+[fzUcr6bCVbmRbCVcr6fzUejA:'Load/SML1/BG/Font/Nintendo/fzUcr6bCVbmRbCVcr6fzUejA.bmp':10:0:0]
+[28y08208238O38O2EG2EG28y:'Load/SML1/BG/Font/Nintendo/28y08208238O38O2EG2EG28y.bmp':10:0:0]
+[2gA2gAejA3Y-3AV3QZ3QZ3QZ:'Load/SML1/BG/Font/Nintendo/2gA2gAejA3Y-3AV3QZ3QZ3QZ.bmp':10:0:0]
+[ejAdjk9Osdvn59i5dj59i5tn:'Load/SML1/BG/Font/Nintendo/ejAdjk9Osdvn59i5dj59i5tn.bmp':10:0:0]
+[ejAejAejA2AF8Ga0w8ezE0w8:'Load/SML1/BG/Font/Nintendo/ejAejAejA2AF8Ga0w8ezE0w8.bmp':10:0:0]
+[6hA6hA6hA7FW5tn5tn5tn7FW:'Load/SML1/BG/Font/Nintendo/6hA6hA6hA7FW5tn5tn5tn7FW.bmp':10:0:0]
+[enBenBenB6JH3QZ3QZ3QZ2IH:'Load/SML1/BG/Font/Nintendo/enBenBenB6JH3QZ3QZ3QZ2IH.bmp':10:0:0]
