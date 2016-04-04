@@ -160,6 +160,9 @@
 [dzo8WyaqqdzofPY1Ir3Rz3Rz:'Load/SML1/BG/Ground/dzo8WyaqqdzofPY1Ir3Rz3Rz.bmp':10:0:0]
 [1Ir1L61L61L61Ir1JI1JI1JI:'Load/SML1/BG/Ground/1Ir1L61L61L61Ir1JI1JI1JI.bmp':10:0:0]
 [1Ir1JZ1JZ1JZ1IrejAejAejA:'Load/SML1/BG/Ground/1Ir1JZ1JZ1JZ1IrejAejAejA.bmp':10:0:0]
+[1Ir1Ir1Ir1Ir9ejb6Nb6NfnR:'Load/SML1/BG/Ground/1Ir1Ir1Ir1Ir9ejb6Nb6NfnR.bmp':10:0:0]
+[1wo1Eq1Ir1Ir9ejb6Nb6Nf3M:'Load/SML1/BG/Ground/1wo1Eq1Ir1Ir9ejb6Nb6Nf3M.bmp':10:0:0]
+[dLr9Kr1Ir1Ir1cj34Nb6NbmR:'Load/SML1/BG/Ground/dLr9Kr1Ir1Ir1cj34Nb6NbmR.bmp':10:0:0]
 
 #Font
 [dPs9yw0FC2FK2FK1FS9ywdPs:'Load/SML1/BG/Font/0092D2.bmp':10:92A0:0]
