@@ -176,6 +176,9 @@
 [fNcdxgdxgdxgdxgdxgdxgfNc:'Load/SML1/OBJ/Effects/fNcdxgdxgdxgdxgdxgdxgfNc.bmp':1:0:0]
 #Fireball
 [ehkdxE88ObEabEa9EGdxEehk:'Load/SML1/OBJ/Effects/ehkdxE88ObEabEa9EGdxEehk.bmp':1:0:0]
+#1-UP
+[ehk8EW0GW8EW8EW8IX8cPehk:'Load/SML1/OBJ/Effects/ehk8EW0GW8EW8EW8IX8cPehk.bmp':1:0:0]
+[ehk5HG5TJ5TJ5HG5PIdNIehk:'Load/SML1/OBJ/Effects/ehk5HG5TJ5TJ5HG5PIdNIehk.bmp':1:0:0]
 
 #Ground
 [1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load/SML1/BG/Ground/009632.bmp':10:0:0]
