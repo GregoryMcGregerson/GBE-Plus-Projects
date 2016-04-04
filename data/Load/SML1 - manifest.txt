@@ -19,12 +19,12 @@
 [fJcedkfBb9xH8hqbhbdNHchO:'Load/SML1/OBJ/Mario/Small/fJcedkfBb9xH8hqbhbdNHchO.bmp':1:0:0]
 [ehkehkehketnedjeJqfJffJc:'Load/SML1/OBJ/Mario/Small/ehkehkehketnedjeJqfJffJc.bmp':1:0:0]
 [ehkehkehk6jk1iA0gk1hk1gQ:'Load/SML1/OBJ/Mario/Small/ehkehkehk6jk1iA0gk1hk1gQ.bmp':1:0:0]
-#[etkeJrdJrddjehrfhbfN8eFq:'Load/SML1/OBJ/Mario/Small/etkeJrdJrddjehrfhbfN8eFq.bmp':1:0:0]
-#[1hkaik9yQdwAeOsfOIfMIehk:'Load/SML1/OBJ/Mario/Small/1hkaik9yQdwAeOsfOIfMIehk.bmp':1:0:0]
+[etkeJrdJrddjehrfhbfN8eFq:'Load/SML1/OBJ/Mario/Small/etkeJrdJrddjehrfhbfN8eFq.bmp':1:0:0]
+[1hkaik9yQdwAeOsfOIfMIehk:'Load/SML1/OBJ/Mario/Small/1hkaik9yQdwAeOsfOIfMIehk.bmp':1:0:0]
 [edkeFrfFbfFce1fehredjedj:'Load/SML1/OBJ/Mario/Small/edkeFrfFbfFce1fehredjedj.bmp':1:0:0]
 [0hk6jk2ikejQeiQ2ik0iQ6jk:'Load/SML1/OBJ/Mario/Small/0hk6jk2ikejQeiQ2ik0iQ6jk.bmp':1:0:0]
-#[1gQ0hkbOk1OkeiQeik6jk2ik:'Load/SML1/OBJ/Mario/Small/1gQ0hkbOk1OkeiQeik6jk2ik.bmp':1:0:0]
-#[fJcedkeJrfJrdhrfhbdlFclR:'Load/SML1/OBJ/Mario/Small/fJcedkeJrfJrdhrfhbdlFclR.bmp':1:0:0]
+[1gQ0hkbOk1OkeiQeik6jk2ik:'Load/SML1/OBJ/Mario/Small/1gQ0hkbOk1OkeiQeik6jk2ik.bmp':1:0:0]
+[fJcedkeJrfJrdhrfhbdlFclR:'Load/SML1/OBJ/Mario/Small/fJcedkeJrfJrdhrfhbdlFclR.bmp':1:0:0]
 #Big
 [2ik1iA0jk1Nk1Mk1iA0hk6ik:'Load/SML1/OBJ/Mario/Big/2ik1iA0jk1Nk1Mk1iA0hk6ik.bmp':1:0:0]
 [4iQ5iAdPIdOkdikeiA9gA9MI:'Load/SML1/OBJ/Mario/Big/4iQ5iAdPIdOkdikeiA9gA9MI.bmp':1:0:0]
@@ -76,6 +76,7 @@
 [eLHfrSdHqcr6b+-amB8m5cv7:'Load/SML1/BG/Background/eLHfrSdHqcr6b+-amB8m5cv7.bmp':10:0:0]
 [2gA8i4cj4djkfjQfjQfjQ1gk:'Load/SML1/BG/Background/2gA8i4cj4djkfjQfjQfjQ1gk.bmp':10:0:0]
 [ejA1gkezEerC6lBenBamB1Eq:'Load/SML1/BG/Background/ejA1gkezEerC6lBenBamB1Eq.bmp':10:0:0]
+[enBebyeXKezEdjkbiQ8i46hA:'Load/SML1/BG/Background/enBebyeXKezEdjkbiQ8i46hA.bmp':10:0:0]
 #needs rom hack to fix
 [enBenBenBenBenBenBenBenB:'Load/SML1/BG/Background/enBenBenBenBenBenBenBenB.bmp':10:0:0]
 
@@ -111,11 +112,38 @@
 [ehkfh4fh41GG9wEdNI9wE2ai:'Load/SML1/OBJ/Pickups/ehkfh4fh41GG9wEdNI9wE2ai.bmp':1:0:0]
 #Coin
 [dPs9yw0FC2FK2FK1FS9ywdPs:'Load/SML1/BG/Coin/008F72.bmp':10:8F40:0]
+#1-UP
+[ehk8EW5L75Ln1Ln9EidxUfNc:'Load/SML1/OBJ/Pickups/ehk8EW5L75Ln1Ln9EidxUfNc.bmp':1:0:0]
 
 #Enemies
 #Goomba
 [dxE9EG3+f3+f1KHdxk9ESd9y:'Load/SML1/OBJ/Enemies/008932.bmp':1:0:0]
 [ehkehkehkdxE9EG3+fdxk2un:'Load/SML1/OBJ/Enemies/008942.bmp':1:0:0]
+#Koopa Troopa
+[3i47j40OQ9EWdBVfJrfJidJJ:'Load/SML1/OBJ/Enemies/3i47j40OQ9EWdBVfJrfJidJJ.bmp':1:0:0]
+[7j40OQdFWdBV9IXfJifF4ddz:'Load/SML1/OBJ/Enemies/7j40OQdFWdBV9IXfJifF4ddz.bmp':1:0:0]
+[ehkehkehkehk8gQ7j43i43i4:'Load/SML1/OBJ/Enemies/ehkehkehkehk8gQ7j43i43i4.bmp':1:0:0]
+[ehkehkehkehkehk8gQ7j43i4:'Load/SML1/OBJ/Enemies/ehkehkehkehkehk8gQ7j43i4.bmp':1:0:0]
+[ehkehkdxE8EWbEabEa9EGdxE:'Load/SML1/OBJ/Enemies/ehkehkdxE8EWbEabEa9EGdxE.bmp':1:0:0]
+[ehkehkdxk8FkbFkbFk9Fkdxk:'Load/SML1/OBJ/Enemies/ehkehkdxk8FkbFkbFk9Fkdxk.bmp':1:0:0]
+#Piranha Plant
+[1LF1Ld9EmdxE7Td3+f9EGdxE:'Load/SML1/OBJ/Enemies/1LF1Ld9EmdxE7Td3+f9EGdxE.bmp':1:0:0]
+[1Ll1Kn9EOdxE7Td3+f9EGdxE:'Load/SML1/OBJ/Enemies/1Ll1Kn9EOdxE7Td3+f9EGdxE.bmp':1:0:0]
+[6nl6nl2un2un0fN0fN0fN0fN:'Load/SML1/OBJ/Enemies/6nl6nl2un2un0fN0fN0fN0fN.bmp':1:0:0]
+[fNcdxM9E69Em1Kl1Lh1Ll1LT:'Load/SML1/OBJ/Enemies/fNcdxM9E69Em1Kl1Lh1Ll1LT.bmp':1:0:0]
+#Fire Breath
+[ehk9wE1+j63n6rl9QjdFGehk:'Load/SML1/OBJ/Enemies/ehk9wE1+j63n6rl9QjdFGehk.bmp':1:0:0]
+[ehkdFG9IH1KP1Kl1KP9IHdFG:'Load/SML1/OBJ/Enemies/ehkdFG9IH1KP1Kl1KP9IHdFG.bmp':1:0:0]
+[ehkehk0iQdGGdiA2ikehkehk:'Load/SML1/OBJ/Enemies/ehkehk0iQdGGdiA2ikehkehk.bmp':1:0:0]
+[ehkehk6jk0iQ1OI0iQ2ikehk:'Load/SML1/OBJ/Enemies/ehkehk6jk0iQ1OI0iQ2ikehk.bmp':1:0:0]
+#Falling Brick
+[1yE1GG1JP1Jn1J71Ij1KH1KH:'Load/SML1/OBJ/Enemies/1yE1GG1JP1Jn1J71Ij1KH1KH.bmp':1:0:0]
+[dJH9IH1Ks1Ll1L41Kg1KH1KH:'Load/SML1/OBJ/Enemies/dJH9IH1Ks1Ll1L41Kg1KH1KH.bmp':1:0:0]
+
+#Platforms
+[9EG1Ln1Ln1Lj9EGehkehkehk:'Load/SML1/OBJ/Platforms/9EG1Ln1Ln1Lj9EGehkehkehk.bmp':1:0:0]
+[9EG46n1KH46n1KH46nbUOdxE:'Load/SML1/OBJ/Platforms/9EG46n1KH46n1KH46nbUOdxE.bmp':1:0:0]
+[9EG7Lb1KH8Em8Em1KH7Lb9EG:'Load/SML1/OBJ/Platforms/9EG7Lb1KH8Em8Em1KH7Lb9EG.bmp':1:0:0]
 
 #Effects
 #Block Break
@@ -129,6 +157,9 @@
 [1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load/SML1/BG/Ground/009632.bmp':10:0:0]
 [1LA1LA1Iregr1Iregr1Ir1Ir:'Load/SML1/BG/Ground/009642.bmp':10:0:0]
 [1LA1LA1LA1LA1LA1LA1LA1LA:'Load/SML1/BG/Ground/1LA1LA1LA1LA1LA1LA1LA1LA.bmp':10:8E80:0]
+[dzo8WyaqqdzofPY1Ir3Rz3Rz:'Load/SML1/BG/Ground/dzo8WyaqqdzofPY1Ir3Rz3Rz.bmp':10:0:0]
+[1Ir1L61L61L61Ir1JI1JI1JI:'Load/SML1/BG/Ground/1Ir1L61L61L61Ir1JI1JI1JI.bmp':10:0:0]
+[1Ir1JZ1JZ1JZ1IrejAejAejA:'Load/SML1/BG/Ground/1Ir1JZ1JZ1JZ1IrejAejAejA.bmp':10:0:0]
 
 #Font
 [dPs9yw0FC2FK2FK1FS9ywdPs:'Load/SML1/BG/Font/0092D2.bmp':10:92A0:0]
