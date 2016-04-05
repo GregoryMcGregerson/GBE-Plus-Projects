@@ -1,0 +1,30 @@
+#README		Be sure to set CGFX scale to 1x in order to use this pack! Thank you and enjoy.  ~GMG~
+#			Built and tested with Metroid 2 (World)
+#			Samus Sprites by: AlphonseDaya
+
+#Samus
+#Power Suit
+[9d39d39d39d39d39929Nc8Nj:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d39d39d39d39929Nc8Nj.bmp':1:8000:0]
+[9d3aRZdEY0uY36uamaaSw4WQ:'Load/~GMG~/Met2/OBJ/Samus/Power/9d3aRZdEY0uY36uamaaSw4WQ.bmp':1:8010:0]
+[9d39d39d31f31f3de3eKX6-7:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d39d31f31f3de3eKX6-7.bmp':1:8020:0]
+[aNz8Nv8NlaNw8Ns8xmaNwbRN:'Load/~GMG~/Met2/OBJ/Samus/Power/aNz8Nv8NlaNw8Ns8xmaNwbRN.bmp':1:8100:0]
+[6gY0+Y1eY9uY1mY5EY6NR4Xx:'Load/~GMG~/Met2/OBJ/Samus/Power/6gY0+Y1eY9uY1mY5EY6NR4Xx.bmp':1:8110:0]
+[6R16-v6-TeSx6+-7Yn6Qx0D5:'Load/~GMG~/Met2/OBJ/Samus/Power/6R16-v6-TeSx6+-7Yn6Qx0D5.bmp':1:8120:0]
+[aRNcY-5TV4nVco+eUmeU+coK:'Load/~GMG~/Met2/OBJ/Samus/Power/aRNcY-5TV4nVco+eUmeU+coK.bmp':1:8200:0]
+[36u5HR7ym2mEePR2Qu2kmejn:'Load/~GMG~/Met2/OBJ/Samus/Power/36u5HR7ym2mEePR2Qu2kmejn.bmp':1:8210:0]
+[0Tp0Pi0Pi1T9c2u70+7EYc6t:'Load/~GMG~/Met2/OBJ/Samus/Power/0Tp0Pi0Pi1T9c2u70+7EYc6t.bmp':1:8220:0]
+[eU+coKaJX992992911911950:'Load/~GMG~/Met2/OBJ/Samus/Power/eU+coKaJX992992911911950.bmp':1:8300:0]
+[6hn71x73x58271xf3xf3x34w:'Load/~GMG~/Met2/OBJ/Samus/Power/6hn71x73x58271xf3xf3x34w.bmp':1:8310:0]
+[5Yf5c31f35c35c3ffzffz3cz:'Load/~GMG~/Met2/OBJ/Samus/Power/5Yf5c31f35c35c3ffzffz3cz.bmp':1:8320:0]
+[9119119119109h69V98Ri8Ns:'Load/~GMG~/Met2/OBJ/Samus/Power/9119119119109h69V98Ri8Ns.bmp':1:8400:0]
+[71x582582da2582582da25a2:'Load/~GMG~/Met2/OBJ/Samus/Power/71x582582da2582582da25a2.bmp':1:8410:0]
+[7dz7dz7dzfez6cj4JHa+76+-:'Load/~GMG~/Met2/OBJ/Samus/Power/7dz7dz7dzfez6cj4JHa+76+-.bmp':1:8420:0]
+#Morph Ball
+#[9h48JsbdYd0-dMP1OP0Oz0Oz:'Load/~GMG~/Met2/OBJ/Samus/Power/9h48JsbdYd0-dMP1OP0Oz0Oz.bmp':1:8590:0]
+#[7ez8KX9u-55Za6d49I0EAfHk:'Load/~GMG~/Met2/OBJ/Samus/Power/7ez8KX9u-55Za6d49I0EAfHk.bmp':1:85A0:0]
+#[0Oz0Oz1OPdMPd0-bdY8Js9h4:'Load/~GMG~/Met2/OBJ/Samus/Power/0Oz0Oz1OPdMPd0-bdY8Js9h4.bmp':1:8690:0]
+#[6F46F469c65d55Z9u-8KX7ez:'Load/~GMG~/Met2/OBJ/Samus/Power/6F46F469c65d55Z9u-8KX7ez.bmp':1:86A0:0]
+#Varia Suit
+
+#Background
+[9ej9ej9ej9ej9ej9ej9ej9ej:'Load/~GMG~/Met2/BG/Background/9ej9ej9ej9ej9ej9ej9ej9ej.bmp':10:8FF0:0]
