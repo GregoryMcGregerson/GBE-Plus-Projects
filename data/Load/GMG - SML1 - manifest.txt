@@ -195,6 +195,12 @@
 #1-UP
 [ehk8EW0GW8EW8EW8IX8cPehk:'Load/~GMG~/SML1/OBJ/Effects/008612.bmp':1:0:0]
 [ehk5HG5TJ5TJ5HG5PIdNIehk:'Load/~GMG~/SML1/OBJ/Effects/008622.bmp':1:0:0]
+#Points
+[ehkchQbg4bg4bg4bg4chQehk:'Load/~GMG~/SML1/OBJ/Effects/ehkchQbg4bg4bg4bg4chQehk.bmp':1:0:0]
+[ehkcpSb41b41b41b41cpSehk:'Load/~GMG~/SML1/OBJ/Effects/ehkcpSb41b41b41b41cpSehk.bmp':1:0:0]
+[ehkfp6d5xf51f51f51fp6ehk:'Load/~GMG~/SML1/OBJ/Effects/ehkfp6d5xf51f51f51fp6ehk.bmp':1:0:0]
+[ehk4rS47N47N16xc5NcpSehk:'Load/~GMG~/SML1/OBJ/Effects/ehk4rS47N47N16xc5NcpSehk.bmp':1:0:0]
+[ehk8oS77184N57x7718oSehk:'Load/~GMG~/SML1/OBJ/Effects/ehk8oS77184N57x7718oSehk.bmp':1:0:0]
 
 #Ground
 [1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load/~GMG~/SML1/BG/Ground/009632.bmp':10:9600:0]
@@ -217,6 +223,13 @@
 [dzo9K31IE1JQ1JQ1Jw1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/dzo9K31IE1JQ1JQ1Jw1Ir1Ir.bmp':10:0:0]
 [9yo1FW1Ln1L31LD1JP1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/9yo1FW1Ln1L31LD1JP1Ir1Ir.bmp':10:0:0]
 [1IJ1JV1Ir1IX1LU1Kk1I31Ir:'Load/~GMG~/SML1/BG/Ground/1IJ1JV1Ir1IX1LU1Kk1I31Ir.bmp':10:0:0]
+#too distracting pick something else
+#[9Kr2gA4h47JX7NY71M1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/9Kr2gA4h47JX7NY71M1Ir1Ir.bmp':10:0:0]
+#[1EqevDefz1Yvf--d-v1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1EqevDefz1Yvf--d-v1Ir1Ir.bmp':10:0:0]
+#[9Kr2gA4h47JX7NY71M7tT7pS:'Load/~GMG~/SML1/BG/Ground/9Kr2gA4h47JX7NY71M7tT7pS.bmp':10:0:0]
+#[1EqevDefz1Yvf--d-v3Y-3Y-:'Load/~GMG~/SML1/BG/Ground/1EqevDefz1Yvf--d-v3Y-3Y-.bmp':10:0:0]
+#[7tT7tT71M7JX7JX4h41Ir9Kr:'Load/~GMG~/SML1/BG/Ground/7tT7tT71M7JX7JX4h41Ir9Kr.bmp':10:0:0]
+#[3Y-3Y-d-v1Yv1Yvefz1Ir1Eq:'Load/~GMG~/SML1/BG/Ground/3Y-3Y-d-v1Yv1Yvefz1Ir1Eq.bmp':10:0:0]
 
 #Font
 [dPs9yw0FC2FK2FK1FS9ywdPs:'Load/~GMG~/SML1/BG/Font/0092D2.bmp':10:92A0:0]
