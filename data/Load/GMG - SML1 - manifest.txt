@@ -78,6 +78,11 @@
 [enAevAe7AeTAenAevAe7AeTA:'Load/~GMG~/SML1/BG/Background/004402.bmp':10:9310:0]
 [enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1/BG/Background/009342.bmp':10:9310:0]
 [enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1/BG/Background/009552.bmp':10:9520:0]
+[1IrejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/1IrejAejAejAejAejAejAejA.bmp':10:0:0]
+[1IrenBenBenBenBenBenBenB:'Load/~GMG~/SML1/BG/Background/1IrenBenBenBenBenBenBenB.bmp':10:0:0]
+[1Ir6hA6hA6hA6hA6hA6hA6hA:'Load/~GMG~/SML1/BG/Background/1Ir6hA6hA6hA6hA6hA6hA6hA.bmp':10:0:0]
+[ejAejAePAfPAc3Aa3A7rAdTA:'Load/~GMG~/SML1/BG/Background/ejAejAePAfPAc3Aa3A7rAdTA.bmp':10:0:0]
+[ejAejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/ejAejAejAejAejAejAejAejA.bmp':10:9620:0]
 #Clouds | World 1
 [ejAejAevDezEfjQcj4cj4aiA:'Load/~GMG~/SML1/BG/Background/ejAejAevDezEfjQcj4cj4aiA.bmp':10:9410:0]
 [ejAejA6hAaiAc30fX+enBebA:'Load/~GMG~/SML1/BG/Background/ejAejA6hAaiAc30fX+enBebA.bmp':10:9420:0]
