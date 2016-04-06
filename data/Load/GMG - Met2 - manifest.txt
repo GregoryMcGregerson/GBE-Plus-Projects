@@ -1,6 +1,10 @@
 #README		Be sure to set CGFX scale to 1x in order to use this pack! Thank you and enjoy.  ~GMG~
 #		Built and tested with Metroid 2 (World)
 #		Samus Sprites by: AlphonseDaya
+#		Enemy Sprites by: Crovirus
+#		Item Pickups by: ChaosMiles07 and Ridleymaster
+#		'Justin Bailey' Ending Sprite by: Dinalfos5
+
 
 #Samus
 #Power Suit
@@ -56,6 +60,8 @@
 
 [1f31f36KX2S5eP6ePq6mFfYn:'Load/~GMG~/Met2/OBJ/Samus/Power/018780.bmp':1:8460:0]
 
+
+
 #Morph Ball
 #[9h48JsbdYd0-dMP1OP0Oz0Oz:'Load/~GMG~/Met2/OBJ/Samus/Power/9h48JsbdYd0-dMP1OP0Oz0Oz.bmp':1:8590:0]
 #[7ez8KX9u-55Za6d49I0EAfHk:'Load/~GMG~/Met2/OBJ/Samus/Power/7ez8KX9u-55Za6d49I0EAfHk.bmp':1:85A0:0]
@@ -65,7 +71,44 @@
 #Only used before missile selected the first time then never shows up again until game reset
 [9d39d3aZ-bt-eQZc4JeQZ9d3:'Load/~GMG~/Met2/OBJ/Samus/Power/0183A0.bmp':1:8080:0]
 [9d3ecPcY-esvcs-cY-ecP9d3:'Load/~GMG~/Met2/OBJ/Samus/Power/0183B0.bmp':1:8090:0]
+#Cannon
+[9d39d3aZ-bt-eQheQZdAZdAZ:'Load/~GMG~/Met2/OBJ/Samus/Power/018000.bmp':1:8080:0]
+[9d36eP8+L8+T7+T8+L6eP9d3:'Load/~GMG~/Met2/OBJ/Samus/Power/018010.bmp':1:8090:0]
+#Missle
+[9d39d39d39d34w16wBeBLdAZ:'Load/~GMG~/Met2/OBJ/Samus/Power/018020.bmp':1:8080:0]
+[ad36fPfezef36e39ez6fPad3:'Load/~GMG~/Met2/OBJ/Samus/Power/018030.bmp':1:8090:0]
+
 #Varia Suit
+
+#Enemies
+#Yumbo
+[9Z39Z3dd24pFdd3a13a139d3:'Load/~GMG~/Met2/OBJ/Enemies/Yumbo/019920.bmp':1:8B00:0]
+[9d4a14av51ec1eY8EI4QJ4Q3:'Load/~GMG~/Met2/OBJ/Enemies/Yumbo/019930.bmp':1:8B10:0]
+[a13a13dd34pFdd29Z39Z39d3:'Load/~GMG~/Met2/OBJ/Enemies/Yumbo/019940.bmp':1:8B20:0]
+[9d4a14av51ec1eY8EI4QJ4Q3:'Load/~GMG~/Met2/OBJ/Enemies/Yumbo/019950.bmp':1:8B30:0]
+#Hornoad
+[9d39d39d09df85r8dX9dY9c3:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019C40.bmp':1:8E20:0]
+[bt3dcZbmWa8Z8cY9eY9e3aNY:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019C50.bmp':1:8E30:0]
+[9d31d39e30czdfP9eX9dX5u7:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019C60.bmp':1:8E40:0]
+[9dY8Ns9Nc9109d39d39d39d3:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019C70.bmp':1:8E50:0]
+[6GZ6KU6+-6aP9l29J4bds7di:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019C80.bmp':1:8E60:0]
+[aZ-4Jrbe39ez9f39d31d35d3:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019C90.bmp':1:8E70:0]
+[6GZ6KU6++6aO9929d29d2993:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019CA0.bmp':1:8E80:0]
+[aZ-0Jrdf3dfj9ej9fz9f3ff3:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019CB0.bmp':1:8E90:0]
+[btrbdjbdjbdn9dn8d98J39J3:'Load/~GMG~/Met2/OBJ/Enemies/Hornoad/019CC0.bmp':1:8EA0:0]
+#Tsumuri
+#Seerook
+#Moheek
+#Rock Icicle
+
+#Pickups
+#Health
+[aZ-eQ17jq4zC4zC7jqeQ1aZ-:'Load/~GMG~/Met2/OBJ/Pickups/018C40.bmp':1:8920:0]
+[9d3aZ-eQBeQ1eQ1eQBaZ-9d3:'Load/~GMG~/Met2/OBJ/Pickups/018C50.bmp':1:8930:0]
+#Missles
+[8d3aJH8dXcsLcsLcsL06J06l:'Load/~GMG~/Met2/OBJ/Pickups/018CB0.bmp':1:8990:0]
+#[8d3aJH8dXcsLcsLcsL06J06l:'Load/~GMG~/Met2/OBJ/Pickups/8d3aJH8dXcsLcsLcsL06J06l (2).bmp':1:8990:0]
+
 
 #Background
 [9ej9ej9ej9ej9ej9ej9ej9ej:'Load/~GMG~/Met2/BG/Background/9ej9ej9ej9ej9ej9ej9ej9ej.bmp':10:8FF0:0]
