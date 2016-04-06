@@ -1,5 +1,5 @@
 #README		Be sure to set CGFX scale to 2x in order to use this pack! Thank you and enjoy.  ~GMG~
-#			Built and tested with Super Mario Land (World) v1.1 aka Rev A
+#		Built and tested with Super Mario Land (World) v1.1 aka Rev A
 
 #Mario
 #Small
