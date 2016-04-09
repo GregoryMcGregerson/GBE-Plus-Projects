@@ -60,6 +60,41 @@
 
 [1f31f36KX2S5eP6ePq6mFfYn:'Load/~GMG~/Met2/OBJ/Samus/Power/018780.bmp':1:8460:0]
 
+[9d39d39NcaJQccId8Y0OY2Oy:'Load/~GMG~/Met2/OBJ/Samus/Power/0183C0.bmp':1:80A0:0]
+[9d39d39d31f3de33cz7dz7fz:'Load/~GMG~/Met2/OBJ/Samus/Power/0183D0.bmp':1:80B0:0]
+[9929929929109h69h7911992:'Load/~GMG~/Met2/OBJ/Samus/Power/0184B0.bmp':1:8190:0]
+[6O4eOfeOaeOF6Op7js6bc5TN:'Load/~GMG~/Met2/OBJ/Samus/Power/0184C0.bmp':1:81A0:0]
+[3ez4+v6lVezu0UQ6RB6+fadP:'Load/~GMG~/Met2/OBJ/Samus/Power/0184D0.bmp':1:81B0:0]
+[f4teA56ro6LI2WBeM7egdcoK:'Load/~GMG~/Met2/OBJ/Samus/Power/0185C0.bmp':1:82A0:0]
+[9d39d39d31f35c37dz6dj6dj:'Load/~GMG~/Met2/OBJ/Samus/Power/0185D0.bmp':1:82B0:0]
+[9d39d39d39929119l69h78Nr:'Load/~GMG~/Met2/OBJ/Samus/Power/0186B0.bmp':1:8390:0]
+[fYnfMkeMt6PT4NHePu6lZ6SF:'Load/~GMG~/Met2/OBJ/Samus/Power/0186C0.bmp':1:83A0:0]
+[7Lr7IX2cjffz5c31f39d39d3:'Load/~GMG~/Met2/OBJ/Samus/Power/0186D0.bmp':1:83B0:0]
+[bN+eQt67tcQNaVE8hs9Re910:'Load/~GMG~/Met2/OBJ/Samus/Power/0187B0.bmp':1:8490:0]
+[8Zp8lt9N89p49109d31f31f3:'Load/~GMG~/Met2/OBJ/Samus/Power/0187C0.bmp':1:84A0:0]
+
+[9d39d39d39109Re8to8dsbNY:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d39d39109Re8to8dsbNY.bmp':1:0:0]
+[aNPeMd6Po6PSeMweQgaNG8Ns:'Load/~GMG~/Met2/OBJ/Samus/Power/aNPeMd6Po6PSeMweQgaNG8Ns.bmp':1:0:0]
+[6KH7JX6ePdKXcv-cv-bKr6eP:'Load/~GMG~/Met2/OBJ/Samus/Power/6KH7JX6ePdKXcv-cv-bKr6eP.bmp':1:0:0]
+[9d39d39929509p49V89Rc8Nn:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d39929509p49V89Rc8Nn.bmp':1:0:0]
+[9d39d31f358279y6aO6y97Pn:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d31f358279y6aO6y97Pn.bmp':1:0:0]
+[5TNfsv6-n6YL6-n6lpenpbOO:'Load/~GMG~/Met2/OBJ/Samus/Power/5TNfsv6-n6YL6-n6lpenpbOO.bmp':1:0:0]
+[fQmahF8Ng9Ne9l59d39d39d3:'Load/~GMG~/Met2/OBJ/Samus/Power/fQmahF8Ng9Ne9l59d39d39d3.bmp':1:0:0]
+[8hu8Rl8tv8Jr9d39d39d39d3:'Load/~GMG~/Met2/OBJ/Samus/Power/8hu8Rl8tv8Jr9d39d39d39d3.bmp':1:0:0]
+[6NP5Qa1j69109l69l69h7911:'Load/~GMG~/Met2/OBJ/Samus/Power/6NP5Qa1j69109l69l69h7911.bmp':1:0:0]
+[1f31f3de35c35c35c3de35c3:'Load/~GMG~/Met2/OBJ/Samus/Power/1f31f3de35c35c35c3de35c3.bmp':1:0:0]
+[9119119109509119119929d3:'Load/~GMG~/Met2/OBJ/Samus/Power/9119119109509119119929d3.bmp':1:0:0]
+[7dz7fz4SZ2GcemV7Yv6eP9d3:'Load/~GMG~/Met2/OBJ/Samus/Power/7dz7fz4SZ2GcemV7Yv6eP9d3.bmp':1:0:0]
+
+[9d39d39d39d39d39929509h4:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d39d39d39d39929509h4.bmp':1:8700:0]
+[9d39d39d39d3ecP3+vd7Z56Z:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d39d39d3ecP3+vd7Z56Z.bmp':1:8710:0]
+[9N98Nn8hvbNWbNUbNV8Nt8Ng:'Load/~GMG~/Met2/OBJ/Samus/Power/9N98Nn8hvbNWbNUbNV8Nt8Ng.bmp':1:8720:0]
+[79Y6Vo6Ne6OC6Rl6YL6+-6Tp:'Load/~GMG~/Met2/OBJ/Samus/Power/79Y6Vo6Ne6OC6Rl6YL6+-6Tp.bmp':1:8730:0]
+[8Fk8VgaNC2TE6MG2OO6WNeWp:'Load/~GMG~/Met2/OBJ/Samus/Power/8Fk8VgaNC2TE6MG2OO6WNeWp.bmp':1:8740:0]
+[2Me3Mq4h+67t6j+4M+1mZ6+-:'Load/~GMG~/Met2/OBJ/Samus/Power/2Me3Mq4h+67t6j+4M+1mZ6+-.bmp':1:8750:0]
+[9d39d39d39119p59p49R88Nn:'Load/~GMG~/Met2/OBJ/Samus/Power/9d39d39d39119p59p49R88Nn.bmp':1:86B0:0]
+[6zfeMfaNC8Ng9Ne9109d39d3:'Load/~GMG~/Met2/OBJ/Samus/Power/6zfeMfaNC8Ng9Ne9109d39d3.bmp':1:86C0:0]
+[0uL6+-dKX6IXbKX2+vfAR8Rt:'Load/~GMG~/Met2/OBJ/Samus/Power/0uL6+-dKX6IXbKX2+vfAR8Rt.bmp':1:83C0:0]
 
 
 #Morph Ball
