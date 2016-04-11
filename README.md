@@ -23,3 +23,6 @@ GBC loading is not working as of yet.
 
 ##### Met2:
 The only issue I am aware of is the screen fade when entering new zone and enemies not flashing when hit.
+
+##### SML1hack:
+There is an issue with the room you find Daisy in after boss levels. This is due to the romhack, and I'm uncertain as to how to fix it at this moment.

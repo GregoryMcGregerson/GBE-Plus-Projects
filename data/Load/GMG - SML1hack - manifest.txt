@@ -71,7 +71,11 @@
 [fzUcr6aKHa+LfnRfnRenBenB:'Load/~GMG~/SML1hack/BG/Background/fzUcr6aKHa+LfnRfnRenBenB.bmp':10:9320:0]
 [9ik6NI20wc30fjQfjQejAejA:'Load/~GMG~/SML1hack/BG/Background/9ik6NI20wc30fjQfjQejAejA.bmp':10:9330:0]
 [enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1hack/BG/Background/enBenBenBenBenBenBenBenB.bmp':10:9310:0]
-
+[eiqegBehBehBeg3eg3ehZehZ:'Load/~GMG~/SML1hack/BG/Background/eiqegBehBehBeg3eg3ehZehZ.bmp':10:95B0:0]
+[ehZehZehBegrehZegBeiCeiq:'Load/~GMG~/SML1hack/BG/Background/ehZehZehBegrehZegBeiCeiq.bmp':10:9490:0]
+[eiCeiyeiCeiyeiCeiyeiCejo:'Load/~GMG~/SML1hack/BG/Background/eiCeiyeiCeiyeiCeiyeiCejo.bmp':10:95E0:0]
+[eiCei+ei2egDehBeg3eg3ehZ:'Load/~GMG~/SML1hack/BG/Background/eiCei+ei2egDehBeg3eg3ehZ.bmp':10:9570:0]
+#[ehZehZehpeh1ehZeiCei2ei+:'Load/~GMG~/SML1hack/BG/Background/ehZehZehpeh1ehZeiCei2ei+.bmp':10:9580:0]
 
 #Ground
 [dzo9Gq3Y-3Y-1IrdzA9G6dbi:'Load/~GMG~/SML1hack/BG/Ground/dzo9Gq3Y-3Y-1IrdzA9G6dbi.bmp':10:8900:0]
