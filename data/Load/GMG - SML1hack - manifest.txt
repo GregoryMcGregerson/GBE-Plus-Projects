@@ -59,11 +59,19 @@
 [1IrejAejAejAejAejAejAejA:'Load/~GMG~/SML1hack/BG/Background/1IrejAejAejAejAejAejAejA.bmp':10:9510:0]
 [1LA1LA1LA1LA1LA1LA1LA1LA:'Load/~GMG~/SML1hack/BG/Background/1LA1LA1LA1LA1LA1LA1LA1LA.bmp':10:9530:0]
 [6hA6hA6hA6hA6hA6hA6hA6hA:'Load/~GMG~/SML1hack/BG/Background/6hA6hA6hA6hA6hA6hA6hA6hA.bmp':10:9500:0]
+[ejAejAejAejAejAejAejAejA:'Load/~GMG~/SML1hack/BG/Background/ejAejAejAejAejAejAejAejA.bmp':10:92C0:0]
 [ejAejAejAejAejAejAejAejA:'Load/~GMG~/SML1hack/BG/Background/ejAejAejAejAejAejAejAejA.bmp':10:95F0:0]
 [ejAejAePAfPAc3Aa3A7rAdTA:'Load/~GMG~/SML1hack/BG/Background/ejAejAePAfPAc3Aa3A7rAdTA.bmp':10:93B0:0]
 [enBebyeXKezEdjkbiQ8i46hA:'Load/~GMG~/SML1hack/BG/Background/enBebyeXKezEdjkbiQ8i46hA.bmp':10:93A0:0]
-[enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1hack/BG/Background/enBenBenBenBenBenBenBenB.bmp':10:9520:0]
+[enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1hack/BG/Background/enBenBenBenBenBenBenBenB (2).bmp':10:9520:0]
 [eiqdMz9xD9xD9xD9xDdMzeiq:'Load/~GMG~/SML1hack/BG/Background/eiqdMz9xD9xD9xD9xDdMzeiq.bmp':10:9370:0]
+[6jA6jA6jA6jA6jA6jA6jA6jA:'Load/~GMG~/SML1hack/BG/Background/6jA6jA6jA6jA6jA6jA6jA6jA.bmp':10:95A0:0]
+[enBerCe3weLIefwevCenBejA:'Load/~GMG~/SML1hack/BG/Background/enBerCe3weLIefwevCenBejA.bmp':10:9450:0]
+[enAevAe7AeTAenAevAe7AeTA:'Load/~GMG~/SML1hack/BG/Background/enAevAe7AeTAenAevAe7AeTA.bmp':10:9310:0]
+[fzUcr6aKHa+LfnRfnRenBenB:'Load/~GMG~/SML1hack/BG/Background/fzUcr6aKHa+LfnRfnRenBenB.bmp':10:9320:0]
+[9ik6NI20wc30fjQfjQejAejA:'Load/~GMG~/SML1hack/BG/Background/9ik6NI20wc30fjQfjQejAejA.bmp':10:9330:0]
+[enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1hack/BG/Background/enBenBenBenBenBenBenBenB.bmp':10:9310:0]
+
 
 #Ground
 [dzo9Gq3Y-3Y-1IrdzA9G6dbi:'Load/~GMG~/SML1hack/BG/Ground/dzo9Gq3Y-3Y-1IrdzA9G6dbi.bmp':10:8900:0]
@@ -83,6 +91,9 @@
 [fLXdbsdLraexbeN9Kpdfhefx:'Load/~GMG~/SML1hack/BG/Ground/fLXdbsdLraexbeN9Kpdfhefx.bmp':10:8A60:0]
 [6hAagA0g45jQ1gk5jQ1gkagA:'Load/~GMG~/SML1hack/BG/Ground/6hAagA0g45jQ1gk5jQ1gkagA.bmp':10:8A50:0]
 [2gA4i41gkbNI1MsbNI1Mscg4:'Load/~GMG~/SML1hack/BG/Ground/2gA4i41gkbNI1MsbNI1Mscg4.bmp':10:8A70:0]
+[fLX9Kr1Ir1Ir1Ir7RZ7RZ082:'Load/~GMG~/SML1hack/BG/Ground/fLX9Kr1Ir1Ir1Ir7RZ7RZ082.bmp':10:9600:0]
+[1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2:'Load/~GMG~/SML1hack/BG/Ground/1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2.bmp':10:9610:0]
+[1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3:'Load/~GMG~/SML1hack/BG/Ground/1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3.bmp':10:9630:0]
 
 
 #Blocks (BG)
