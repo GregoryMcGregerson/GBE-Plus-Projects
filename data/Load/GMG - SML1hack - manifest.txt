@@ -55,68 +55,53 @@
 [byQbyQeMYdOIdOIdPIehkehk:'Load/~GMG~/SML1/OBJ/Mario/Big/byQbyQeMYdOIdOIdPIehkehk.bmp':1:0:0]
 
 #Background
+#Sky
 [ejAejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/0092F2.bmp':10:92C0:0]
+#Invisible Block
 [ejAejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/009622.bmp':10:95F0:0]
-[1LA1LA1LA1LA1LA1LA1LA1LA:'Load/~GMG~/SML1/BG/Background/009562.bmp':10:9530:0]
-[1LAejA1LAejA1LAejA1LAejA:'Load/~GMG~/SML1/BG/Background/009432.bmp':10:9400:0]
-[6hAaiAcj4fjQePIe3werCenB:'Load/~GMG~/SML1/BG/Background/009612.bmp':10:95E0:0]
-[fzUcr6aKHa+LfnRfnRenBenB:'Load/~GMG~/SML1/BG/Background/009352.bmp':10:9320:0]
-[9ik6NI20wc30fjQfjQejAejA:'Load/~GMG~/SML1/BG/Background/009362.bmp':10:9330:0]
-[enBerCe3wePIfjQcj4aiA6hA:'Load/~GMG~/SML1/BG/Background/009392.bmp':10:9360:0]
-[6lBamBcn5fnReTJe7xevDenB:'Load/~GMG~/SML1/BG/Background/0093F2.bmp':10:93C0:0]
-[6hA6hA6hA6hA6hA6hA6hA6hA:'Load/~GMG~/SML1/BG/Background/009532.bmp':10:9500:0]
-[enBevDe7xeTJfnRcn5amB6lB:'Load/~GMG~/SML1/BG/Background/009372.bmp':10:9340:0]
-[ePIefzejAejAefzfPYfrS1Ir:'Load/~GMG~/SML1/BG/Background/0094E2.bmp':10:0:0]
-[dHqe3weHGfjQdHq2gA4Nc1Ir:'Load/~GMG~/SML1/BG/Background/0094D2.bmp':10:0:0]
-[eLHfrSdHqcr6b+-amB8m5cv7:'Load/~GMG~/SML1/BG/Background/0094B2.bmp':10:0:0]
-[2gA8i4cj4djkfjQfjQfjQ1gk:'Load/~GMG~/SML1/BG/Background/0094C2.bmp':10:0:0]
-[ejA1gkezEerC6lBenBamB1Eq:'Load/~GMG~/SML1/BG/Background/0094F2.bmp':10:0:0]
+#
+#[1LAejA1LAejA1LAejA1LAejA:'Load/~GMG~/SML1/BG/Background/009432.bmp':10:9400:0]
+#
+
+#[ePIefzejAejAefzfPYfrS1Ir:'Load/~GMG~/SML1/BG/Background/0094E2.bmp':10:0:0]
+#[dHqe3weHGfjQdHq2gA4Nc1Ir:'Load/~GMG~/SML1/BG/Background/0094D2.bmp':10:0:0]
+#[eLHfrSdHqcr6b+-amB8m5cv7:'Load/~GMG~/SML1/BG/Background/0094B2.bmp':10:0:0]
+#[2gA8i4cj4djkfjQfjQfjQ1gk:'Load/~GMG~/SML1/BG/Background/0094C2.bmp':10:0:0]
+#[ejA1gkezEerC6lBenBamB1Eq:'Load/~GMG~/SML1/BG/Background/0094F2.bmp':10:0:0]
+#Bridge Chain
 [enBebyeXKezEdjkbiQ8i46hA:'Load/~GMG~/SML1/BG/Background/0093D2.bmp':10:93A0:0]
-[ehDegyei9egregregregregr:'Load/~GMG~/SML1/BG/Background/ehDegyei9egregregregregr.bmp':10:0:0]
-[ejAeg4ehlei-egregregregr:'Load/~GMG~/SML1/BG/Background/ejAeg4ehlei-egregregregr.bmp':10:0:0]
-[6jA6jA6jA6jA6jA6jA6jA6jA:'Load/~GMG~/SML1/BG/Background/004692.bmp':10:95A0:0]
-[enAevAe7AeTAenAevAe7AeTA:'Load/~GMG~/SML1/BG/Background/004402.bmp':10:9310:0]
-[enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1/BG/Background/009342.bmp':10:9310:0]
-[enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1/BG/Background/009552.bmp':10:9520:0]
-[1IrejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/1IrejAejAejAejAejAejAejA.bmp':10:0:0]
-[1IrenBenBenBenBenBenBenB:'Load/~GMG~/SML1/BG/Background/1IrenBenBenBenBenBenBenB.bmp':10:0:0]
-[1Ir6hA6hA6hA6hA6hA6hA6hA:'Load/~GMG~/SML1/BG/Background/1Ir6hA6hA6hA6hA6hA6hA6hA.bmp':10:0:0]
-[ejAejAePAfPAc3Aa3A7rAdTA:'Load/~GMG~/SML1/BG/Background/ejAejAePAfPAc3Aa3A7rAdTA.bmp':10:0:0]
-[ejAejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/ejAejAejAejAejAejAejAejA.bmp':10:9620:0]
+#[ehDegyei9egregregregregr:'Load/~GMG~/SML1/BG/Background/ehDegyei9egregregregregr.bmp':10:0:0]
+#[ejAeg4ehlei-egregregregr:'Load/~GMG~/SML1/BG/Background/ejAeg4ehlei-egregregregr.bmp':10:0:0]
+#[6jA6jA6jA6jA6jA6jA6jA6jA:'Load/~GMG~/SML1/BG/Background/004692.bmp':10:95A0:0]
+#[enAevAe7AeTAenAevAe7AeTA:'Load/~GMG~/SML1/BG/Background/004402.bmp':10:9310:0]
+#[1IrejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/1IrejAejAejAejAejAejAejA.bmp':10:0:0]
+#[ejAejAePAfPAc3Aa3A7rAdTA:'Load/~GMG~/SML1/BG/Background/ejAejAePAfPAc3Aa3A7rAdTA.bmp':10:0:0]
+#[ejAejAejAejAejAejAejAejA:'Load/~GMG~/SML1/BG/Background/ejAejAejAejAejAejAejAejA.bmp':10:9620:0]
 #Clouds | World 1
 [ejAejAevDezEfjQcj4cj4aiA:'Load/~GMG~/SML1/BG/Background/ejAejAevDezEfjQcj4cj4aiA.bmp':10:9410:0]
 [ejAejA6hAaiAc30fX+enBebA:'Load/~GMG~/SML1/BG/Background/ejAejA6hAaiAc30fX+enBebA.bmp':10:9420:0]
-[ejAejAejAejAejAejA6hAaiA:'Load/~GMG~/SML1/BG/Background/ejAejAejAejAejAejA6hAaiA.bmp':10:9430:0]
-[enBerCe3weLIefwevCenBejA:'Load/~GMG~/SML1/BG/Background/enBerCe3weLIefwevCenBejA.bmp':10:9440:0]
 [6hAejA2nA1fA1LA1KA1I7dHq:'Load/~GMG~/SML1/BG/Background/6hAejA2nA1fA1LA1KA1I7dHq.bmp':10:9450:0]
 [fvA7TA2nA0vA1LA1JA9KBdHq:'Load/~GMG~/SML1/BG/Background/fvA7TA2nA0vA1LA1JA9KBdHq.bmp':10:9460:0]
-[aiA4j40j42iA2iA6hAejAejA:'Load/~GMG~/SML1/BG/Background/aiA4j40j42iA2iA6hAejAejA.bmp':10:9470:0]
-#Clouds | World 2
+#Clouds | The address shifted! Levels 2-1+
 [ejAejAevDezEfjQcj4cj4aiA:'Load/~GMG~/SML1/BG/Background/ejAejAevDezEfjQcj4cj4aiA.bmp':10:9420:0]
 [ejAejA6hAaiAc30fX+enBebA:'Load/~GMG~/SML1/BG/Background/ejAejA6hAaiAc30fX+enBebA.bmp':10:9430:0]
-[ejAejAejAejAejAejA6hAaiA:'Load/~GMG~/SML1/BG/Background/ejAejAejAejAejAejA6hAaiA.bmp':10:9440:0]
-[enBerCe3weLIefwevCenBejA:'Load/~GMG~/SML1/BG/Background/enBerCe3weLIefwevCenBejA.bmp':10:9450:0]
 [6hAejA2nA1fA1LA1KA1I7dHq:'Load/~GMG~/SML1/BG/Background/6hAejA2nA1fA1LA1KA1I7dHq.bmp':10:9460:0]
 [fvA7TA2nA0vA1LA1JA9KBdHq:'Load/~GMG~/SML1/BG/Background/fvA7TA2nA0vA1LA1JA9KBdHq.bmp':10:9470:0]
-[aiA4j40j42iA2iA6hAejAejA:'Load/~GMG~/SML1/BG/Background/aiA4j40j42iA2iA6hAejAejA.bmp':10:9480:0]
-#Clouds | World 3
-#[ejAejAevDezEfjQcj4cj4aiA:'Load/~GMG~/SML1/BG/Background/ejAejAevDezEfjQcj4cj4aiA.bmp':10:0:0]
-#[ejAejA6hAaiAc30fX+enBebA:'Load/~GMG~/SML1/BG/Background/ejAejA6hAaiAc30fX+enBebA.bmp':10:0:0]
-#[ejAejAejAejAejAejA6hAaiA:'Load/~GMG~/SML1/BG/Background/ejAejAejAejAejAejA6hAaiA.bmp':10:0:0]
-#[enBerCe3weLIefwevCenBejA:'Load/~GMG~/SML1/BG/Background/enBerCe3weLIefwevCenBejA.bmp':10:0:0]
-#[6hAejA2nA1fA1LA1KA1I7dHq:'Load/~GMG~/SML1/BG/Background/6hAejA2nA1fA1LA1KA1I7dHq.bmp':10:0:0]
-#[fvA7TA2nA0vA1LA1JA9KBdHq:'Load/~GMG~/SML1/BG/Background/fvA7TA2nA0vA1LA1JA9KBdHq.bmp':10:0:0]
-#[aiA4j40j42iA2iA6hAejAejA:'Load/~GMG~/SML1/BG/Background/aiA4j40j42iA2iA6hAejAejA.bmp':10:0:0]
+
 
 #Blocks (BG)
+#Used Block
 [9Gq6kr6kr6kr6kr6kr6kr9Gq:'Load/~GMG~/SML1/BG/Blocks/009822.bmp':10:97F0:0]
+#Brick Block
 [9Gq1JD1Jv1J71J71Jz1Ir9Gq:'Load/~GMG~/SML1/BG/Blocks/008852.bmp':10:8820:0]
+#Brick Block with Item
 [9Gq1JD1Jv1J71J71Jz1Ir9Gq:'Load/~GMG~/SML1/BG/Blocks/008832.bmp':10:8800:0]
+#Question Block
 [9Gq7RZ4516BF7RZ6lB7RZ9Gq:'Load/~GMG~/SML1/BG/Blocks/9Gq7RZ4516BF7RZ6lB7RZ9Gq.bmp':10:8810:0]
 
 #Blocks (OBJ)
-[9EG1Ln1LL1LT1LT1Lj1KH9EG:'Load/~GMG~/SML1/OBJ/Blocks/9EG1Ln1LL1LT1LT1Lj1KH9EG.bmp':1:0:0]
-[9EG7Td47N6Dp7Td6nl7Td9EG:'Load/~GMG~/SML1/OBJ/Blocks/9EG7Td47N6Dp7Td6nl7Td9EG.bmp':1:0:0]
+#[9EG1Ln1LL1LT1LT1Lj1KH9EG:'Load/~GMG~/SML1/OBJ/Blocks/9EG1Ln1LL1LT1LT1Lj1KH9EG.bmp':1:0:0]
+#[9EG7Td47N6Dp7Td6nl7Td9EG:'Load/~GMG~/SML1/OBJ/Blocks/9EG7Td47N6Dp7Td6nl7Td9EG.bmp':1:0:0]
 
 #Pipes
 [1Ir1JA1JA1JA1JA1Ir9KA9KA:'Load/~GMG~/SML1/BG/Pipes/009732.bmp':10:9700:0]
@@ -191,9 +176,9 @@
 [2undBF2un1KH1KH0KP1KH3+f:'Load/~GMG~/SML1/OBJ/Enemies/2undBF2un1KH1KH0KP1KH3+f.bmp':1:0:0]
 
 #Platforms
-[9EG1Ln1Ln1Lj9EGehkehkehk:'Load/~GMG~/SML1/OBJ/Platforms/9EG1Ln1Ln1Lj9EGehkehkehk.bmp':1:0:0]
-[9EG46n1KH46n1KH46nbUOdxE:'Load/~GMG~/SML1/OBJ/Platforms/9EG46n1KH46n1KH46nbUOdxE.bmp':1:0:0]
-[9EG7Lb1KH8Em8Em1KH7Lb9EG:'Load/~GMG~/SML1/OBJ/Platforms/9EG7Lb1KH8Em8Em1KH7Lb9EG.bmp':1:0:0]
+#[9EG1Ln1Ln1Lj9EGehkehkehk:'Load/~GMG~/SML1/OBJ/Platforms/9EG1Ln1Ln1Lj9EGehkehkehk.bmp':1:0:0]
+#[9EG46n1KH46n1KH46nbUOdxE:'Load/~GMG~/SML1/OBJ/Platforms/9EG46n1KH46n1KH46nbUOdxE.bmp':1:0:0]
+#[9EG7Lb1KH8Em8Em1KH7Lb9EG:'Load/~GMG~/SML1/OBJ/Platforms/9EG7Lb1KH8Em8Em1KH7Lb9EG.bmp':1:0:0]
 
 #Effects
 #Block Break
@@ -215,27 +200,35 @@
 [ehk8oS77184N57x7718oSehk:'Load/~GMG~/SML1/OBJ/Effects/ehk8oS77184N57x7718oSehk.bmp':1:0:0]
 
 #Ground
+#Sand Top
 [1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load/~GMG~/SML1/BG/Ground/009632.bmp':10:9600:0]
+#Sand Bottom
 [1LA1LA1Iregr1Iregr1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/009642.bmp':10:9610:0]
-[1LA1LA1LA1LA1LA1LA1LA1LA:'Load/~GMG~/SML1/BG/Ground/008EB2.bmp':10:8E80:0]
+#
+#[1LA1LA1LA1LA1LA1LA1LA1LA:'Load/~GMG~/SML1/BG/Ground/008EB2.bmp':10:8E80:0]
+#Brown Brick
 [9Gq6tD7JX7JX7JX1Ir1Ir9Gq:'Load/~GMG~/SML1/BG/Ground/9Gq6tD7JX7JX7JX1Ir1Ir9Gq.bmp':10:9630:0]
+#Axe
 [dzo8WyaqqdzofPY1Ir3Rz3Rz:'Load/~GMG~/SML1/BG/Ground/dzo8WyaqqdzofPY1Ir3Rz3Rz.bmp':10:0:0]
+#Castle Brick
 [1Ir1L61L61L61Ir1JI1JI1JI:'Load/~GMG~/SML1/BG/Ground/1Ir1L61L61L61Ir1JI1JI1JI.bmp':10:0:0]
-[1Ir1JZ1JZ1JZ1IrejAejAejA:'Load/~GMG~/SML1/BG/Ground/1Ir1JZ1JZ1JZ1IrejAejAejA.bmp':10:0:0]
-[1Ir1Ir1Ir1Ir9ejb6Nb6NfnR:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1Ir1Ir9ejb6Nb6NfnR.bmp':10:0:0]
-[1wo1Eq1Ir1Ir9ejb6Nb6Nf3M:'Load/~GMG~/SML1/BG/Ground/1wo1Eq1Ir1Ir9ejb6Nb6Nf3M.bmp':10:0:0]
-[dLr9Kr1Ir1Ir1cj34Nb6NbmR:'Load/~GMG~/SML1/BG/Ground/dLr9Kr1Ir1Ir1cj34Nb6NbmR.bmp':10:0:0]
-[1Ir1Ir1II1JB1JQ1Iw1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1II1JB1JQ1Iw1Ir1Ir.bmp':10:0:0]
-[1Ir1Ir1L31LD1LT1Kz1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1L31LD1LT1Kz1Ir1Ir.bmp':10:0:0]
-[dLr9Kr1II1JB1JQ1Iw1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/dLr9Kr1II1JB1JQ1Iw1Ir1Ir.bmp':10:0:0]
-[1wo1Eq1L31LD1LT1Kz1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1wo1Eq1L31LD1LT1Kz1Ir1Ir.bmp':10:0:0]
-[0Ea0Ea0Ea0Ea0Ea0EaejAejA:'Load/~GMG~/SML1/BG/Ground/0Ea0Ea0Ea0Ea0Ea0EaejAejA.bmp':10:0:0]
-[1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2.bmp':10:0:0]
-[1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3:'Load/~GMG~/SML1/BG/Ground/1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3.bmp':10:0:0]
-[fLX9Kr1Ir1Ir1Ir7RZ7RZ082:'Load/~GMG~/SML1/BG/Ground/fLX9Kr1Ir1Ir1Ir7RZ7RZ082.bmp':10:0:0]
-[dzo9K31IE1JQ1JQ1Jw1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/dzo9K31IE1JQ1JQ1Jw1Ir1Ir.bmp':10:0:0]
-[9yo1FW1Ln1L31LD1JP1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/9yo1FW1Ln1L31LD1JP1Ir1Ir.bmp':10:0:0]
-[1IJ1JV1Ir1IX1LU1Kk1I31Ir:'Load/~GMG~/SML1/BG/Ground/1IJ1JV1Ir1IX1LU1Kk1I31Ir.bmp':10:0:0]
+#Redo?
+#[1Ir1JZ1JZ1JZ1IrejAejAejA:'Load/~GMG~/SML1/BG/Ground/1Ir1JZ1JZ1JZ1IrejAejAejA.bmp':10:0:0]
+#
+#[1Ir1Ir1Ir1Ir9ejb6Nb6NfnR:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1Ir1Ir9ejb6Nb6NfnR.bmp':10:0:0]
+#[1wo1Eq1Ir1Ir9ejb6Nb6Nf3M:'Load/~GMG~/SML1/BG/Ground/1wo1Eq1Ir1Ir9ejb6Nb6Nf3M.bmp':10:0:0]
+#[dLr9Kr1Ir1Ir1cj34Nb6NbmR:'Load/~GMG~/SML1/BG/Ground/dLr9Kr1Ir1Ir1cj34Nb6NbmR.bmp':10:0:0]
+#[1Ir1Ir1II1JB1JQ1Iw1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1II1JB1JQ1Iw1Ir1Ir.bmp':10:0:0]
+#[1Ir1Ir1L31LD1LT1Kz1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1L31LD1LT1Kz1Ir1Ir.bmp':10:0:0]
+#[dLr9Kr1II1JB1JQ1Iw1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/dLr9Kr1II1JB1JQ1Iw1Ir1Ir.bmp':10:0:0]
+#[1wo1Eq1L31LD1LT1Kz1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1wo1Eq1L31LD1LT1Kz1Ir1Ir.bmp':10:0:0]
+#[0Ea0Ea0Ea0Ea0Ea0EaejAejA:'Load/~GMG~/SML1/BG/Ground/0Ea0Ea0Ea0Ea0Ea0EaejAejA.bmp':10:0:0]
+#[1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2:'Load/~GMG~/SML1/BG/Ground/1Ir1Ir1Ir1Ir1Ir7RZ7RZ8a2.bmp':10:0:0]
+#[1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3:'Load/~GMG~/SML1/BG/Ground/1Ms1Eq1Ir1Ir1Ir7RZ7RZ8e3.bmp':10:0:0]
+#[fLX9Kr1Ir1Ir1Ir7RZ7RZ082:'Load/~GMG~/SML1/BG/Ground/fLX9Kr1Ir1Ir1Ir7RZ7RZ082.bmp':10:0:0]
+#[dzo9K31IE1JQ1JQ1Jw1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/dzo9K31IE1JQ1JQ1Jw1Ir1Ir.bmp':10:0:0]
+#[9yo1FW1Ln1L31LD1JP1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/9yo1FW1Ln1L31LD1JP1Ir1Ir.bmp':10:0:0]
+#[1IJ1JV1Ir1IX1LU1Kk1I31Ir:'Load/~GMG~/SML1/BG/Ground/1IJ1JV1Ir1IX1LU1Kk1I31Ir.bmp':10:0:0]
 #too distracting pick something else
 #[9Kr2gA4h47JX7NY71M1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/9Kr2gA4h47JX7NY71M1Ir1Ir.bmp':10:0:0]
 #[1EqevDefz1Yvf--d-v1Ir1Ir:'Load/~GMG~/SML1/BG/Ground/1EqevDefz1Yvf--d-v1Ir1Ir.bmp':10:0:0]
@@ -294,3 +287,39 @@
 [ejAejAejA2AF8Ga0w8ezE0w8:'Load/~GMG~/SML1/BG/Font/Nintendo/ejAejAejA2AF8Ga0w8ezE0w8.bmp':10:0:0]
 [6hA6hA6hA7FW5tn5tn5tn7FW:'Load/~GMG~/SML1/BG/Font/Nintendo/6hA6hA6hA7FW5tn5tn5tn7FW.bmp':10:0:0]
 [enBenBenB6JH3QZ3QZ3QZ2IH:'Load/~GMG~/SML1/BG/Font/Nintendo/enBenBenB6JH3QZ3QZ3QZ2IH.bmp':10:0:0]
+
+#HACK
+#[########################:'Load/~GMG~/SML1hack/BG/Hack/########################.bmp':10:####:0]
+[dzo9Gq3Y-3Y-1IrdzA9G6dbi:'Load/~GMG~/SML1hack/BG/Hack/008932.bmp':10:0:0]
+[ejAejAejAdzo9Gq3Y-dzA2sD:'Load/~GMG~/SML1hack/BG/Hack/008942.bmp':10:0:0]
+[fPYdz09GS9GC1IB1Jx1JB1J7:'Load/~GMG~/SML1hack/BG/Hack/008952.bmp':10:0:0]
+[1JB1ID9G2dzo7RZ3Y-9Gqdzo:'Load/~GMG~/SML1hack/BG/Hack/1JB1ID9G2dzo7RZ3Y-9Gqdzo.bmp':10:0:0]
+[1IrejAejAejAejAejAejAejA:'Load/~GMG~/SML1hack/BG/Hack/1IrejAejAejAejAejAejAejA.bmp':10:9510:0]
+[6hA6hA6hA6hA6hA6hA6hA6hA:'Load/~GMG~/SML1hack/BG/Hack/6hA6hA6hA6hA6hA6hA6hA6hA.bmp':10:9500:0]
+[enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1hack/BG/Hack/enBenBenBenBenBenBenBenB.bmp':10:9520:0]
+[eiqdMz9xD9xD9xD9xDdMzeiq:'Load/~GMG~/SML1hack/BG/Hack/eiqdMz9xD9xD9xD9xDdMzeiq.bmp':10:9370:0]
+[1LA1LA1LA1LA1LA1LA1LA1LA:'Load/~GMG~/SML1hack/BG/Hack/009562.bmp':10:9530:0]
+[ejAejAePAfPAc3Aa3A7rAdTA:'Load/~GMG~/SML1hack/BG/Hack/ejAejAePAfPAc3Aa3A7rAdTA.bmp':10:93B0:0]
+#Palm Tree
+[enBenBenBenBenBenBenBenB:'Load/~GMG~/SML1hack/BG/Hack/009342.bmp':10:9310:0]
+[fzUcr6aKHa+LfnRfnRenBenB:'Load/~GMG~/SML1hack/BG/Hack/009352.bmp':10:9320:0]
+[6lBamBcn5fnReTJe7xevDenB:'Load/~GMG~/SML1hack/BG/Hack/0093F2.bmp':10:93C0:0]
+[enBevDe7xeTJfnRcn5amB6lB:'Load/~GMG~/SML1hack/BG/Hack/009372.bmp':10:9340:0]
+#Palm Tree Pyramid
+[9ik6NI20wc30fjQfjQejAejA:'Load/~GMG~/SML1hack/BG/Hack/009362.bmp':10:9330:0]
+[enBerCe3weLIefwevCenBejA:'Load/~GMG~/SML1hack/BG/Hack/enBerCe3weLIefwevCenBejA.bmp':10:9440:0]
+#
+[enBerCe3wePIfjQcj4aiA6hA:'Load/~GMG~/SML1hack/BG/Hack/009392.bmp':10:9360:0]
+[6hAaiAcj4fjQePIe3werCenB:'Load/~GMG~/SML1hack/BG/Hack/009612.bmp':10:95E0:0]
+#Pyramid
+[aiA4j40j42iA2iA6hAejAejA:'Load/~GMG~/SML1hack/BG/Hack/aiA4j40j42iA2iA6hAejAejA.bmp':10:9470:0]
+#2 sides meet
+[ejAejAejAejAejAejA6hAaiA:'Load/~GMG~/SML1hack/BG/Hack/ejAejAejAejAejAejA6hAaiA.bmp':10:9430:0]
+#Pipe Pyramid
+[ejAejAdzo8GabGWbGW9Gqdzo:'Load/~GMG~/SML1hack/BG/Hack/ejAejAdzo8GabGWbGW9Gqdzo.bmp':10:89A0:0]
+[ejAejAdzA8HAbHAbHA9HAdzA:'Load/~GMG~/SML1hack/BG/Hack/ejAejAdzA8HAbHAbHA9HAdzA.bmp':10:89B0:0]
+#World 2 Clouds
+#[ejAejAejAejAejAejA6hAaiA:'Load/~GMG~/SML1hack/BG/Hack/ejAejAejAejAejAejA6hAaiA.bmp':10:9440:0]
+#[enBerCe3weLIefwevCenBejA:'Load/~GMG~/SML1hack/BG/Hack/enBerCe3weLIefwevCenBejA.bmp':10:9450:0]
+#[aiA4j40j42iA2iA6hAejAejA:'Load/~GMG~/SML1hack/BG/Hack/aiA4j40j42iA2iA6hAejAejA.bmp':10:9480:0]
+
