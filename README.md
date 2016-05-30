@@ -4,9 +4,7 @@ GBE+ by: shonumi https://github.com/shonumi/gbe-plus
 
 GBE+ latest offical version (beta 1.0 RC2) download: https://drive.google.com/file/d/0B-WE3IAskDSYRHVmWXNmd1gxQnM/view
 
-Unoffical build of [(fac832fe7546ef7e252ef5ba63896a34038c2b7b)](https://github.com/shonumi/gbe-plus/tree/fac832fe7546ef7e252ef5ba63896a34038c2b7b)
-
-download: https://drive.google.com/file/d/0B5aZT1MLfWJsdXAzZXV0dURiNUE/view
+Unoffical svn build (May 30, 2016) download: https://drive.google.com/file/d/0B5aZT1MLfWJsdXAzZXV0dURiNUE/view
 
 #### How to use these graphic packs
 
