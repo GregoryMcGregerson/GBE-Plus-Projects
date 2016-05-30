@@ -4,6 +4,9 @@ GBE+ by: shonumi https://github.com/shonumi/gbe-plus
 
 GBE+ latest offical version (beta 1.0 RC2) download: https://drive.google.com/file/d/0B-WE3IAskDSYRHVmWXNmd1gxQnM/view
 
+Unoffical build [(fac832fe7546ef7e252ef5ba63896a34038c2b7b)](https://github.com/shonumi/gbe-plus/tree/fac832fe7546ef7e252ef5ba63896a34038c2b7b)
+download: https://drive.google.com/file/d/0B5aZT1MLfWJsdXAzZXV0dURiNUE/view?usp=sharing
+
 #### How to use these graphic packs
 
 Place 'Load' Folder in the GBE-plus data folder
@@ -22,7 +25,7 @@ Also hoping for animated textures so I can fix the static question blocks, starm
 GBC loading is not working as of yet.
 
 ##### Met2:
-The only issue I am aware of is the screen fade when entering new zone and enemies not flashing when hit.
+The only issue I am aware of is the screen fade when entering new zone.
 
 ##### SML1hack:
 There is an issue with the room you find Daisy in after boss levels. This is due to the romhack, and I'm uncertain as to how to fix it at this moment.
