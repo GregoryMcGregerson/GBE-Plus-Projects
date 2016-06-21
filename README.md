@@ -2,7 +2,7 @@
 
 GBE+ by: shonumi https://github.com/shonumi/gbe-plus
 
-GBE+ latest offical releases: https://github.com/shonumi/gbe-plus/releases
+GBE+ latest offical release: https://github.com/shonumi/gbe-plus/releases/latest
 
 #### How to use these graphic packs
 
