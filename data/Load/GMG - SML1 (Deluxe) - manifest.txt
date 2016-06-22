@@ -55,7 +55,6 @@
 [fJ2fJ4fJcddIdZDdNPfxbdxE:MarioSuper_26:1:8420:0]
 [1Nk1Mk1iA1Nc5PYfOQdOIdxE:MarioSuper_27:1:8430:0]
 
-#will be activated once 'change when memory = this value' suggestion is (if ever) implmented
 #[Load/~GMG~/SML1 - Deluxe/Mario-Fire.bmp:MarioFire:1]
 #[edjeJreJofJ2dJAdJAeJseZr:MarioFire_0:1:8200:0]
 #[2ik1iA0jk1Nk1Mk1iA0hk6ik:MarioFire_1:1:8210:0]
@@ -83,10 +82,10 @@
 #[2hA8iQ9OI1Os1rmaHGdwEdNI:MarioFire_25:1:83B0:0]
 #[fJ2fJ4fJcddIdZDdNPfxbdxE:MarioFire_26:1:8420:0]
 #[1Nk1Mk1iA1Nc5PYfOQdOIdxE:MarioFire_27:1:8430:0]
-#[********:MarioFire_28:1:0:0]
-#[********:MarioFire_29:1:0:0]
-#[********:MarioFire_30:1:0:0]
-#[********:MarioFire_31:1:0:0]
+#[********:MarioFire_28:1:0:0]	#Not used in-game?
+#[********:MarioFire_29:1:0:0]	#Not used in-game?
+#[********:MarioFire_30:1:0:0]	#Not used in-game?
+#[********:MarioFire_31:1:0:0]	#Not used in-game?
 
 [Load/~GMG~/SML1 - Deluxe/Font.bmp:Font:0]
 [ejAdzo8a28a28a28a2dzoejA:Font_0:10:9000:0]
@@ -138,40 +137,41 @@
 #[********:OBJcommon_2:1:0:0]	#E
 #[********:OBJcommon_3:1:0:0]	#N
 #[********:OBJcommon_4:1:0:0]	#D
-#[********:OBJcommon_5:1:0:0]	#00
-#[********:OBJcommon_6:1:0:0]	#0
-#[********:OBJcommon_7:1:0:0]	#10
-#[********:OBJcommon_8:1:0:0]	#20
-#[********:OBJcommon_9:1:0:0]	#40
-#[********:OBJcommon_10:1:0:0]	#50
-#[********:OBJcommon_11:1:0:0]	#80
-#[********:OBJcommon_12:1:0:0]	#1
-#[********:OBJcommon_13:1:0:0]	#up
-#[********:OBJcommon_14:1:0:0]	#FireBall (should be animated)
-#[********:OBJcommon_15:1:0:0]	#broken brick
-#[********:OBJcommon_16:1:0:0]
-#[********:OBJcommon_17:1:0:0]	#Not used?
-#[********:OBJcommon_18:1:0:0]
-#[********:OBJcommon_19:1:0:0]	#mushroom
-#[********:OBJcommon_20:1:0:0]	#1up
-#[********:OBJcommon_21:1:0:0]	#star (should be animated)
+[ehkcpSb41b41b41b41cpSehk:OBJcommon_5:1:8570:0]
+[ehkchQbg4bg4bg4bg4chQehk:OBJcommon_6:1:8580:0]
+[ehkfp6d5xf51f51f51fp6ehk:OBJcommon_7:1:8590:0]
+#[********:OBJcommon_8:1:85A0:0]	#20
+[ehk4rS47N47N16xc5NcpSehk:OBJcommon_9:1:85B0:0]
+#[********:OBJcommon_10:1:85C0:0]	#50
+[ehk8oS77184N57x7718oSehk:OBJcommon_11:1:85D0:0]
+[ehk8EW0GW8EW8EW8IX8cPehk:OBJcommon_12:1:85E0:0]
+[ehk5HG5TJ5TJ5HG5PIdNIehk:OBJcommon_13:1:85F0:0]
+[ehkdxE88ObEabEa9EGdxEehk:OBJcommon_14:1:8600:0]	#FireBall (should be animated)
+[ehkehkfNcdxM9U2dxoeNcehk:OBJcommon_15:1:8620:0]
+[9EG1Ln1LL1LT1LT1Lj1KH9EG:OBJcommon_16:1:8800:0]
+[9EG7Td47N6Dp7Td6nl7Td9EG:OBJcommon_17:1:8810:0]
+[9EG1Ln1LL1LT1LT1Lj1KH9EG:OBJcommon_18:1:8820:0]
+[dxE9Em1Ll1Ll1KHaomaomdxE:OBJcommon_19:1:8830:0]
+[ehk8EW5L75Ln1Ln9EidxUfNc:OBJcommon_20:1:8840:0]
+[ehkfh4fh41GG9wEdNI9wE2ai:OBJcommon_21:1:8860:0]	#Star (should be animated)
 #[********:OBJcommon_22:1:0:0]	#bulletbillcannon top
 #[********:OBJcommon_23:1:0:0]	#bulletbillcannon bottom
-#[********:OBJcommon_24:1:0:0]	#FireFlower (needs reanimation)
+[dFG8sT9IHdFGeNs8Y-dFGfx8:OBJcommon_24:1:8E00:0]	#FireFlower (needs reanimation)
+[ehGfw9eglehGehseg-ehGeh8:OBJcommon_24:1:8E50:0]	#FireFlower (needs reanimation)
 #[********:OBJcommon_25:1:0:0]	#ball
 #[********:OBJcommon_26:1:0:0]	#ball
 #[********:OBJcommon_27:1:0:0]	#mariohead
-#[********:OBJcommon_28:1:0:0]	#titlemushroom
+#[dxE9Em1Ll1Ll1KHaomaomdxE:OBJcommon_28:1:0:0]	#titlemushroom
 #[********:OBJcommon_29:1:0:0]	#up platform
 #[********:OBJcommon_30:1:0:0]	#down platform
-#[********:OBJcommon_31:1:0:0]	#orange grate
+[9EG1Ln1Ln1Lj9EGehkehkehk:OBJcommon_31:1:8EF0:0]
 #[********:OBJcommon_32:1:0:0]	#Fist top 1
 #[********:OBJcommon_33:1:0:0]	#Fist top 2
 #[********:OBJcommon_34:1:0:0]	#Fist bottom 1
 #[********:OBJcommon_35:1:0:0]	#Fist bottom 2
-#[********:OBJcommon_36:1:0:0]	#Coin get 1
-#[********:OBJcommon_37:1:0:0]	#Coin get 2
-#[********:OBJcommon_38:1:0:0]	#Coin get 3
+[dxE88OaEqaEqaEqaEq88OdxE:OBJcommon_36:1:8F60:0]
+[fNcdxgdxgdxgdxgdxgdxgfNc:OBJcommon_37:1:8F70:0]
+[fNcfNcfNcfNcfNcfNcfNcfNc:OBJcommon_38:1:8F80:0]
 #[********:OBJcommon_39:1:0:0]	#BulletBill
 #[********:OBJcommon_40:1:0:0]	#BulletBill flame 1
 #[********:OBJcommon_41:1:0:0]	#BulletBill flame 2
@@ -312,7 +312,7 @@
 #[********:BGworld1_26:10:94A0:0]
 #[********:BGworld1_27:10:94B0:0]
 #[********:BGworld1_28:10:94C0:0]
-[ejAejAejAejAejAejAejAejA:BGworld1_29:10:94D0:0]	#still problems
+[ejAejAejAejAejAejAejAejA:BGworld1_29:10:94D0:0]
 [1Ir1Ir1II1JB1JQ1Iw1Ir1Ir:BGworld1_29:10:94D0:0]
 [ejAejAejAejAejAejAejAejA:BGworld1_30:10:94E0:0]
 [1Ir1Ir1L31LD1LT1Kz1Ir1Ir:BGworld1_30:10:94E0:0]
